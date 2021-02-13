@@ -1,6 +1,6 @@
 # Coming Out On Top PL
 <br/>
-Progres tłumaczenia:
+Progres tłumaczenia:<br/>
 <br/>
 #Pliki systemowe:<br/>
 Common 0%<br/>
