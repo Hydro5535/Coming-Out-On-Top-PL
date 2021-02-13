@@ -1,37 +1,37 @@
 # Coming Out On Top PL
-
+<br/>
 Progres tłumaczenia:
-
-#Pliki systemowe:
-Common 0%
-Endings 0%
-Screen_hair_menu 0%
-Screens 0%
-Brofinder 0%
-Poem_assist 0%
-Poem 0%
-Poetry_lines 0%
-Trivia 0%
-Main 0%
-Minigoals 0%
-
-#Główne linie dialogowe:
-Alex 0%
-Amos 0%
-Brad 0%
-Ian 0%
-Jed 0%
-Phil 0%
-Twins 0%
-Fish 0%
-
-#Dodatkowe randki:
-Jake 0%
-Tommy 0%
-Frankie 0%
-Luke 0%
-Cesar 0%
-Terry 0%
-Donovan 0%
-Oz & Pete 0%
-Theo 0%
+<br/>
+#Pliki systemowe:<br/>
+Common 0%<br/>
+Endings 0%<br/>
+Screen_hair_menu 0%<br/>
+Screens 0%<br/>
+Brofinder 0%<br/>
+Poem_assist 0%<br/>
+Poem 0%<br/>
+Poetry_lines 0%<br/>
+Trivia 0%<br/>
+Main 0%<br/>
+Minigoals 0%<br/>
+<br/>
+#Główne linie dialogowe:<br/>
+Alex 0%<br/>
+Amos 0%<br/>
+Brad 0%<br/>
+Ian 0%<br/>
+Jed 0%<br/>
+Phil 0%<br/>
+Twins 0%<br/>
+Fish 0%<br/>
+<br/>
+#Dodatkowe randki:<br/>
+Jake 0%<br/>
+Tommy 0%<br/>
+Frankie 0%<br/>
+Luke 0%<br/>
+Cesar 0%<br/>
+Terry 0%<br/>
+Donovan 0%<br/>
+Oz & Pete 0%<br/>
+Theo 0%<br/>
