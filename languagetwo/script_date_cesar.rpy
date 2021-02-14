@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-01-30 13:59
+# TODO: Translation updated at 2021-02-14 18:51
 
 # game/script_date_cesar.rpy:7
 translate languagetwo cesar_intro_223a505e:
@@ -10,7 +10,7 @@ translate languagetwo cesar_intro_223a505e:
 translate languagetwo cesar_intro_f8b2d1a2:
 
     # "After typing and deleting several dozen possibilities, you give up and settle for {i}''Yeah, I like fiestas!''{/i}"
-    "Po wpisaniu i usunięciu kilkudziesięciu możliwych wariantów wiadomości poddajesz się i decydujesz się na {i}''Tak, lubię imprezy!''{/i}"
+    "Po wpisaniu i usunięciu kilkudziesięciu możliwych wariantów wiadomości poddajesz się i decydujesz się na {i}''Tak, uwielbiam imprezy!''{/i}"
 
 # game/script_date_cesar.rpy:9
 translate languagetwo cesar_intro_42a2bb3a:
@@ -198,7 +198,7 @@ translate languagetwo cesar_intro_88e7be6c:
 translate languagetwo cesar_intro_6d121a65:
 
     # mside "Getting rejected because of jalapeno poppers? That's a first."
-    mside "Odrzucenie z powodu jalapeno poppers? Coś nowego."
+    mside "Odrzucenie z powodu poppersa jalapeno? Coś nowego."
 
 # game/script_date_cesar.rpy:67
 translate languagetwo cesar_intro_6760489b:
@@ -212,25 +212,25 @@ translate languagetwo cesar_intro_695623f3:
     # nvl clear
     # mark_m "Should I bring some dipping sauce?"
     nvl clear
-    mark_m "Should I bring some dipping sauce?"
+    mark_m "Powinienem przynieść jakiś sos?"
 
 # game/script_date_cesar.rpy:70
 translate languagetwo cesar_intro_92620744:
 
     # cesar_m "DIPPING SAUCE? YOU'RE INSANE xD"
-    cesar_m "DIPPING SAUCE? JESTEŚ NIESAMOWITY xD"
+    cesar_m "SOS? JESTEŚ NIESAMOWITY xD"
 
 # game/script_date_cesar.rpy:71
 translate languagetwo cesar_intro_f0ec7240:
 
     # mark_m "Uh, thanks?"
-    mark_m "Uh, thanks?"
+    mark_m "Uh, dzięki?"
 
 # game/script_date_cesar.rpy:72
 translate languagetwo cesar_intro_c0525874:
 
     # cesar_m "OMG thank you again. A TRUE GENTLEMAN U ARE @}->"
-    cesar_m "OMG thank you again. A TRUE GENTLEMAN U ARE @}->"
+    cesar_m "OMG znowu dziękuje. JESTEŚ PRAWDZIWYM DŻENTELMENEM @}->"
 
 # game/script_date_cesar.rpy:74
 translate languagetwo cesar_intro_d0aac278:
@@ -238,13 +238,13 @@ translate languagetwo cesar_intro_d0aac278:
     # nvl clear
     # mark_m "I'm glad I could help with the festivities."
     nvl clear
-    mark_m "I'm glad I could help with the festivities."
+    mark_m "Cieszę się, że mogłem pomóc w organizacji imprezie."
 
 # game/script_date_cesar.rpy:76
 translate languagetwo cesar_intro_fad09c4b:
 
     # cesar_m "HAHAHA! ZOMG YOU'RE KILLING ME!"
-    cesar_m "HAHAHA! ZOMG YOU'RE KILLING ME!"
+    cesar_m "HAHAHA! ZOMG NAPRAWDĘ MNIE ROZBRAJASZ!"
 
 # game/script_date_cesar.rpy:78
 translate languagetwo cesar_intro_2b4d7baf:
@@ -252,91 +252,91 @@ translate languagetwo cesar_intro_2b4d7baf:
     # nvl clear
     # cesar_m "C U SOON. K BYEEEEEEEEEEE"
     nvl clear
-    cesar_m "C U SOON. K BYEEEEEEEEEEE"
+    cesar_m "DO PÓŹNIEJ. K CZEEEEEEŚĆ"
 
 # game/script_date_cesar.rpy:82
 translate languagetwo cesar_intro_1e2efe9f:
 
     # "You're not sure why Cesar thinks you're a riot, but his compliments still feel good, if slightly puzzling."
-    "You're not sure why Cesar thinks you're a riot, but his compliments still feel good, if slightly puzzling."
+    "Nie jesteś pewien, dlaczego Cesar uważa, że ​​jesteś żartownisiem, ale jego komplementy wciąż są miłe, choć nieco zagadkowe."
 
 # game/script_date_cesar.rpy:84
 translate languagetwo cesar_intro_7a0b7480:
 
     # mside "Guess I'm just a natural comedian."
-    mside "Guess I'm just a natural comedian."
+    mside "Zgaduje, że jestem poprostu urodzonym komediantem."
 
 # game/script_date_cesar.rpy:93
 translate languagetwo cesar_ian_ranch_00a7156c:
 
     # ian "Woah. Where are you running off to, dude?"
-    ian "Woah. Where are you running off to, dude?"
+    ian "Woah. Gdzie leczisz stary?"
 
 # game/script_date_cesar.rpy:95
 translate languagetwo cesar_ian_ranch_31346dfc:
 
     # mside "I'm going to a fiesta. I need to get some poppers."
-    mside "I'm going to a fiesta. I need to get some poppers."
+    mside "Idę na imprezę. Muszę zdobyć poppersy."
 
 # game/script_date_cesar.rpy:97
 translate languagetwo cesar_ian_ranch_5d4e1f16:
 
     # ian "Aren't you forgetting something?"
-    ian "Aren't you forgetting something?"
+    ian "Nie zapomniałeś o czymś?"
 
 # game/script_date_cesar.rpy:99
 translate languagetwo cesar_ian_ranch_b10d6164:
 
     # mside "What?"
-    mside "What?"
+    mside "O czym niby?"
 
 # game/script_date_cesar.rpy:101
 translate languagetwo cesar_ian_ranch_5fb0ce81:
 
     # ian "Ranch dressing? Hello?"
-    ian "Ranch dressing? Hello?"
+    ian "Dressing? Hello?"
 
 # game/script_date_cesar.rpy:103
 translate languagetwo cesar_ian_ranch_aa1fb6c6:
 
     # mside "Ranch doesn't go with poppers."
-    mside "Ranch doesn't go with poppers."
+    mside "Dressing nie idzie w parze poppersami."
 
 # game/script_date_cesar.rpy:106
 translate languagetwo cesar_ian_ranch_1623f782:
 
     # ian "A bottle of ranch will create a good impression. Let them know you are a thoughtful, considerate guest."
-    ian "A bottle of ranch will create a good impression. Let them know you are a thoughtful, considerate guest."
+    ian "Prezent w postaci słoiku dobrego dressingu może zrobić dobre wrażenie. Pokażesz im, że jestś uporządkowanym i rozważnym gościem."
 
 # game/script_date_cesar.rpy:108
 translate languagetwo cesar_ian_ranch_816faba8:
 
     # mside "Yeah, no. That's a bottle of {i}wine{/i}. I'm {i}not{/i} bringing a bottle of ranch."
-    mside "Yeah, no. That's a bottle of {i}wine{/i}. I'm {i}not{/i} bringing a bottle of ranch."
+    mside "Yeah, nie. Takie wrażenie daje butelka {i}wina{/i}.{i}Nie{/i} słoik dressingu."
 
 # game/script_date_cesar.rpy:110
 translate languagetwo cesar_ian_ranch_a5205e89:
 
     # ian "Ranch is the thinking man's mayo."
-    ian "Ranch is the thinking man's mayo."
+    ian "Ranch to majonez myślącego człowieka."
 
 # game/script_date_cesar.rpy:112
 translate languagetwo cesar_ian_ranch_60ac302f:
 
     # mside "Ranch is not a thinking man's anything! It's overused and indiscriminately slapped on top of too many foods!"
-    mside "Ranch is not a thinking man's anything! It's overused and indiscriminately slapped on top of too many foods!"
+    mside "Ranch nie jest dla ludzi myślących! Jest nadużywany i bezkrytycznie nakładany na zbyt dużą ilość jedzenia!"
 
 # game/script_date_cesar.rpy:114
 translate languagetwo cesar_ian_ranch_52bcd226:
 
     # ian "Fine. But when people start throwing punches because there's no dip, don't come crying to me, dude."
-    ian "Fine. But when people start throwing punches because there's no dip, don't come crying to me, dude."
+    ian "Dobra stary. Ale kiedy ludzie zaczynają rzucać nachosami, ponieważ nie ma dipu, nie przychodź do mnie z płaczem."
 
 # game/script_date_cesar.rpy:115
 translate languagetwo cesar_ian_ranch_0cb8f63c:
 
     # "Ian saunters off."
-    "Ian saunters off."
+    "Ian odchodzi."
 
 # game/script_date_cesar.rpy:118
 translate languagetwo cesar_ian_ranch_9927ad97:
@@ -348,151 +348,151 @@ translate languagetwo cesar_ian_ranch_9927ad97:
 translate languagetwo cesar_ian_ranch_4357227c:
 
     # mside "What ridiculous advice."
-    mside "What ridiculous advice."
+    mside "Co za śmieszna rada."
 
 # game/script_date_cesar.rpy:121
 translate languagetwo cesar_ian_ranch_9ad979ef:
 
     # mside "Wasn't it?"
-    mside "Wasn't it?"
+    mside "Prawda?"
 
 # game/script_date_cesar.rpy:125
 translate languagetwo cesar_ian_ranch_4f85011b:
 
     # thought "Why I listen to Ian, I'll never know."
-    thought "Why I listen to Ian, I'll never know."
+    thought "Dlaczego ja słucham Iana, nigdy się nie dowiem."
 
 # game/script_date_cesar.rpy:126
 translate languagetwo cesar_ian_ranch_17c41931:
 
     # "You peek into the fridge but don't see any ranch."
-    "You peek into the fridge but don't see any ranch."
+    "Zaglądasz do lodówki jednak nie widzisz żadnego dressingu."
 
 # game/script_date_cesar.rpy:127
 translate languagetwo cesar_ian_ranch_7c1dff75:
 
     # thought "Dammit, I thought we had some."
-    thought "Dammit, I thought we had some."
+    thought "Cholera, Myślałem, że mamy jeszcze trochę."
 
 # game/script_date_cesar.rpy:128
 translate languagetwo cesar_ian_ranch_852f3033:
 
     # iside "Looking for something, dude?"
-    iside "Looking for something, dude?"
+    iside "Szukasz czegoś?"
 
 # game/script_date_cesar.rpy:130
 translate languagetwo cesar_ian_ranch_a97d7903:
 
     # mside "Uhhh...no, I was just..."
-    mside "Uhhh...no, I was just..."
+    mside "Uhhh...nie, ja tylko..."
 
 # game/script_date_cesar.rpy:132
 translate languagetwo cesar_ian_ranch_d76a94ac:
 
     # iside "We have some leftover powdered ranch mix in the cabinet. It's in the plastic baggie."
-    iside "We have some leftover powdered ranch mix in the cabinet. It's in the plastic baggie."
+    iside "W szafce mamy resztki sproszkowanej mieszanki runcha. Jest w plastikowej foliówce."
 
 # game/script_date_cesar.rpy:135
 translate languagetwo cesar_ian_ranch_a7dc8e38:
 
     # mside "Oh, heh, well..."
-    mside "Oh, heh, well..."
+    mside "Oh, heh, więc..."
 
 # game/script_date_cesar.rpy:137
 translate languagetwo cesar_ian_ranch_f7fcb1a2:
 
     # iside "Just add a cup of water once you get to your {i}fiesta{/i}."
-    iside "Just add a cup of water once you get to your {i}fiesta{/i}."
+    iside "Wystarczy dodać kubek wody i masz runch na swoją {i}imprezę{/i}."
 
 # game/script_date_cesar.rpy:139
 translate languagetwo cesar_ian_ranch_5f33de89:
 
     # mside "Thanks."
-    mside "Thanks."
+    mside "Dzięki."
 
 # game/script_date_cesar.rpy:144
 translate languagetwo cesar_ian_ranch_2a7d8f88:
 
     # "You head out."
-    "You head out."
+    "Wychodzisz."
 
 # game/script_date_cesar.rpy:150
 translate languagetwo cesar_searching_shop_ae556de4:
 
     # "You drive to the address Cesar sent you and park your car next to a row of abandoned buildings."
-    "You drive to the address Cesar sent you and park your car next to a row of abandoned buildings."
+    "Jedziesz pod adres wysłany ci przez Cesara i parkujesz swój samochód obok rzędu opuszczonych budynków."
 
 # game/script_date_cesar.rpy:154
 translate languagetwo cesar_searching_shop_d2ed2511:
 
     # mside "Ahh, here we are. The quaint part of the city, away from the supermarket chains."
-    mside "Ahh, here we are. The quaint part of the city, away from the supermarket chains."
+    mside "Ahh, wreszcie na miejscu. Opustoszała część miasta, zdaleka od sieci supermarketów."
 
 # game/script_date_cesar.rpy:156
 translate languagetwo cesar_searching_shop_393a4c66:
 
     # mside "This must be one heck of a specialty popper shop. I guess he's really particular."
-    mside "This must be one heck of a specialty popper shop. I guess he's really particular."
+    mside "To musi być bardzo specjalistyczny sklep z popperami. Myślę, że jest naprawdę szczególny."
 
 # game/script_date_cesar.rpy:159
 translate languagetwo cesar_searching_shop_fc54ef3e:
 
     # "The front of the building has no entrance."
-    "The front of the building has no entrance."
+    "Od frontu nie widać wejścia."
 
 # game/script_date_cesar.rpy:160
 translate languagetwo cesar_searching_shop_68f84608:
 
     # "You decide to check around the side."
-    "You decide to check around the side."
+    "Decydujeszz się sprawdzić z boku."
 
 # game/script_date_cesar.rpy:165
 translate languagetwo cesar_searching_shop_4230ec20:
 
     # mside "I guess it's down this dark, deserted alleyway."
-    mside "I guess it's down this dark, deserted alleyway."
+    mside "Myślę, że jest w tej ciemnej, opuszczonej uliczce."
 
 # game/script_date_cesar.rpy:168
 translate languagetwo cesar_searching_shop_85fc5b20:
 
     # "You quadruple-check the address."
-    "You quadruple-check the address."
+    "Kilkukrotnie sprawdzasz podany ci adres."
 
 # game/script_date_cesar.rpy:171
 translate languagetwo cesar_searching_shop_1854c26d:
 
     # mside "This is how you know you're getting the {i}real deal.{/i} The best, most authentic food is always bought from some little, hole-in-the-wall that no one knows about."
-    mside "This is how you know you're getting the {i}real deal.{/i} The best, most authentic food is always bought from some little, hole-in-the-wall that no one knows about."
+    mside "Dzięki temu wiesz, że otrzymujesz {i}prawdziwą ofertę.{/i} Najlepsze, najbardziej autentyczne jedzenie jest zawsze kupowane z jakiejś małej dziury w ścianie, o której nikt nie wie."
 
 # game/script_date_cesar.rpy:178
 translate languagetwo cesar_searching_shop_fae898e7:
 
     # "Feeling your heart beat a million times a minute in your chest, you run back to your car, slam the door shut, and head home."
-    "Feeling your heart beat a million times a minute in your chest, you run back to your car, slam the door shut, and head home."
+    "Czując, jak serce bije w piersi milion razy na minutę, biegniesz z powrotem do samochodu, zatrzaskujesz drzwi i kierujesz się do domu."
 
 # game/script_date_cesar.rpy:179
 translate languagetwo cesar_searching_shop_fb09920f:
 
     # thought "He can pick up his own damn poppers."
-    thought "He can pick up his own damn poppers."
+    thought "Sam może sobie kupić te cholerne poppery."
 
 # game/script_date_cesar.rpy:181
 translate languagetwo cesar_searching_shop_3dd6ca1b:
 
     # timestamp "YOUR DATE HAS ENDED"
-    timestamp "YOUR DATE HAS ENDED"
+    timestamp "TWOJA RANDKA DOBIEGA KOŃCA"
 
 # game/script_date_cesar.rpy:187
 translate languagetwo cesar_searching_shop_9c932928:
 
     # "You step forward, almost tripping over a broken beer bottle."
-    "You step forward, almost tripping over a broken beer bottle."
+    "Robisz krok w tył, prawie potykając się o rozbitą butelkę piwa."
 
 # game/script_date_cesar.rpy:189
 translate languagetwo cesar_searching_shop_2acd22e9:
 
     # mside "Maybe I should message Cesar. Seems like this place is closed."
-    mside "Maybe I should message Cesar. Seems like this place is closed."
+    mside "Może powinienem napisać do Cesara. Wygląda na to, że to miejsce jest zamknięte."
 
 # game/script_date_cesar.rpy:191
 translate languagetwo cesar_searching_shop_125a801b:
@@ -504,37 +504,37 @@ translate languagetwo cesar_searching_shop_125a801b:
 translate languagetwo cesar_searching_shop_fa0d08e2:
 
     # "You halt when you hear a screech behind the dumpster."
-    "You halt when you hear a screech behind the dumpster."
+    "Zatrzymujesz się, gdy słyszysz pisk za śmietnikiem."
 
 # game/script_date_cesar.rpy:196
 translate languagetwo cesar_searching_shop_702b1526:
 
     # "You nearly jump out of your shoes."
-    "You nearly jump out of your shoes."
+    "Prawie wyskoczyłeś z butów."
 
 # game/script_date_cesar.rpy:199
 translate languagetwo cesar_searching_shop_c46e652e:
 
     # mside "Shit!"
-    mside "Shit!"
+    mside "Cholera!"
 
 # game/script_date_cesar.rpy:200
 translate languagetwo cesar_searching_shop_a39c6378:
 
     # "Your eyes catch a shadow, flitting along the wall, followed by another."
-    "Your eyes catch a shadow, flitting along the wall, followed by another."
+    "Twoje oczy dostrzegają cień, biegnący wzdłuż ściany, a zanim kolejny."
 
 # game/script_date_cesar.rpy:201
 translate languagetwo cesar_searching_shop_a0f24779:
 
     # "It takes you several deep breaths to calm down and realize the shadows were two mangy cats."
-    "It takes you several deep breaths to calm down and realize the shadows were two mangy cats."
+    "Aby się uspokoić potrzebujesz kilku głębokich wdechów i uświadamiasz sobie, że cienie należą do dwuch parszywych kotów."
 
 # game/script_date_cesar.rpy:203
 translate languagetwo cesar_searching_shop_5e5c582e:
 
     # mside "How cute! They were just having a booty call."
-    mside "How cute! They were just having a booty call."
+    mside "Jak słodko! Mają swoją sex randke."
 
 # game/script_date_cesar.rpy:204
 translate languagetwo cesar_searching_shop_5ac6633d:
@@ -564,7 +564,7 @@ translate languagetwo cesar_arrival_0a53b8ff:
 translate languagetwo cesar_arrival_e3aadcf6:
 
     # thought "Oh shit."
-    thought "Oh shit."
+    thought "Oh cholera."
 
 # game/script_date_cesar.rpy:217
 translate languagetwo cesar_arrival_258f6f1d:
@@ -588,7 +588,7 @@ translate languagetwo cesar_arrival_c52ec4a6:
 translate languagetwo cesar_arrival_19c96ec0:
 
     # cesarside "KEEP THOSE HANDS IN THE AIR!"
-    cesarside "KEEP THOSE HANDS IN THE AIR!"
+    cesarside "PODNIEŚ RĘCE DO GÓRY!"
 
 # game/script_date_cesar.rpy:225
 translate languagetwo cesar_arrival_fbcdbf9c:
@@ -1350,7 +1350,7 @@ translate languagetwo cesar_cavity_search_ded6ae65:
 translate languagetwo cesar_cavity_search_3dd6ca1b:
 
     # timestamp "YOUR DATE HAS ENDED"
-    timestamp "YOUR DATE HAS ENDED"
+    timestamp "TWOJA RANDKA DOBIEGA KOŃCA"
 
 # game/script_date_cesar.rpy:562
 translate languagetwo cesar_anal_c4cf4685:
@@ -1470,7 +1470,7 @@ translate languagetwo cesar_anal_4c73d7b5:
 translate languagetwo cesar_anal_3dd6ca1b:
 
     # timestamp "YOUR DATE HAS ENDED"
-    timestamp "YOUR DATE HAS ENDED"
+    timestamp "TWOJA RANDKA DOBIEGA KOŃCA"
 
 # game/script_date_cesar.rpy:616
 translate languagetwo cesar_anal_8f068fd7:
@@ -1758,7 +1758,7 @@ translate languagetwo cesar_release_postbuttsex_b1c25d13:
 translate languagetwo cesar_release_postbuttsex_3dd6ca1b:
 
     # timestamp "YOUR DATE HAS ENDED"
-    timestamp "YOUR DATE HAS ENDED"
+    timestamp "TWOJA RANDKA DOBIEGA KOŃCA"
 
 # game/script_date_cesar.rpy:747
 translate languagetwo cesar_innocent_eb7b2267:
@@ -1926,7 +1926,7 @@ translate languagetwo cesar_no_sex_9e642862:
 translate languagetwo cesar_no_sex_3dd6ca1b:
 
     # timestamp "YOUR DATE HAS ENDED"
-    timestamp "YOUR DATE HAS ENDED"
+    timestamp "TWOJA RANDKA DOBIEGA KOŃCA"
 
 # game/script_date_cesar.rpy:810
 translate languagetwo cesar_jail_61d175a2:
@@ -1950,7 +1950,7 @@ translate languagetwo cesar_jail_d4dc93af:
 translate languagetwo cesar_jail_3dd6ca1b:
 
     # timestamp "YOUR DATE HAS ENDED"
-    timestamp "YOUR DATE HAS ENDED"
+    timestamp "TWOJA RANDKA DOBIEGA KOŃCA"
 
 # game/script_date_cesar.rpy:818
 translate languagetwo cesar_dressing_free_5262058f:
@@ -1992,7 +1992,7 @@ translate languagetwo cesar_dressing_free_0418dac9:
 translate languagetwo cesar_dressing_free_3dd6ca1b:
 
     # timestamp "YOUR DATE HAS ENDED"
-    timestamp "YOUR DATE HAS ENDED"
+    timestamp "TWOJA RANDKA DOBIEGA KOŃCA"
 
 translate languagetwo strings:
 
