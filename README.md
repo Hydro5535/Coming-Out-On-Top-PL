@@ -11,7 +11,7 @@ Brofinder 0%<br/>
 Poem_assist 0%<br/>
 Poem 0%<br/>
 Poetry_lines 0%<br/>
-Trivia 0%<br/>
+Trivia 95% (Wymaga sprawdzenia w grze)<br/>
 Main 0%<br/>
 Minigoals 0%<br/>
 <br/>
