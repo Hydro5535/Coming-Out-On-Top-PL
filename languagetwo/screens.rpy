@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-01-30 13:59
+# TODO: Translation updated at 2021-02-15 16:07
 
 translate languagetwo strings:
 
@@ -64,7 +64,7 @@ translate languagetwo strings:
 
     # screens.rpy:586
     old "CENSORED"
-    new "OCENZUROWANY"
+    new "CENZURA"
 
     # screens.rpy:592
     old "ON"
@@ -80,11 +80,11 @@ translate languagetwo strings:
 
     # screens.rpy:607
     old "DISPLAY"
-    new "DISPLAY"
+    new "TRYB WYŚWIETLANIA"
 
     # screens.rpy:613
     old "WINDOW"
-    new "OKNO"
+    new "W OKNIE"
 
     # screens.rpy:615
     old "FULLSCREEN"
@@ -96,103 +96,103 @@ translate languagetwo strings:
 
     # screens.rpy:623
     old "Large"
-    new "Duży"
+    new "Duża"
 
     # screens.rpy:625
     old "Normal"
-    new "Średni"
+    new "Średnia"
 
     # screens.rpy:627
     old "Small"
-    new "Mały"
+    new "Mała"
 
     # screens.rpy:635
     old "TEXT SPEED"
-    new "TEXT SPEED"
+    new "SZYBKOŚĆ TEKSTU"
 
     # screens.rpy:638
     old "AUTO-FORWARD"
-    new "AUTO-FORWARD"
+    new "AUTOMATYCZNE PRZEWIJANIE"
 
     # screens.rpy:641
     old "SOUND VOLUME"
-    new "SOUND VOLUME"
+    new "GŁOŚNOŚĆ DŹWIĘKÓW"
 
     # screens.rpy:644
     old "MUSIC VOLUME"
-    new "MUSIC VOLUME"
+    new "GŁOŚNOŚĆ MUZYKI"
 
     # screens.rpy:647
     old "MENU MUSIC"
-    new "MENU MUSIC"
+    new "MUZYKA W MENU"
 
     # screens.rpy:663
     old "TRANSITIONS"
-    new "TRANSITIONS"
+    new "PRZEJŚCIA"
 
     # screens.rpy:669
     old "ALL"
-    new "ALL"
+    new "WSZYSTKIE"
 
     # screens.rpy:671
     old "NONE"
-    new "NONE"
+    new "BRAK"
 
     # screens.rpy:673
     old "ANIMATIONS"
-    new "ANIMATIONS"
+    new "ANIMACJE"
 
     # screens.rpy:679
     old "HIGH"
-    new "HIGH"
+    new "WYSOKIE"
 
     # screens.rpy:681
     old "LOW"
-    new "LOW"
+    new "NISKIE"
 
     # screens.rpy:683
     old "SKIP UNREAD TEXT"
-    new "SKIP UNREAD TEXT"
+    new "POMIŃ NIECZYTELNY TEKST"
 
     # screens.rpy:689
     old "YES"
-    new "YES"
+    new "TAK"
 
     # screens.rpy:691
     old "NO"
-    new "NO"
+    new "NIE"
 
     # screens.rpy:693
     old "SKIP AFTER CHOICES"
-    new "SKIP AFTER CHOICES"
+    new "POMIŃ PO WYBORZE"
 
     # screens.rpy:761
     old "Yes"
-    new "Yes"
+    new "Tak"
 
     # screens.rpy:762
     old "No"
-    new "No"
+    new "Nie"
 
     # screens.rpy:797
     old "Save"
-    new "Save"
+    new "Zapisz"
 
     # screens.rpy:798
     old "Load"
-    new "Load"
+    new "Wczytaj"
 
     # screens.rpy:799
     old "Options"
-    new "Options"
+    new "Opcje"
 
     # screens.rpy:800
     old "Main Menu"
-    new "Main Menu"
+    new "Menu główne"
 
     # screens.rpy:801
     old "Skip"
-    new "Skip"
+    new "Pomiń"
 
     # screens.rpy:802
     old "Auto"
@@ -200,13 +200,13 @@ translate languagetwo strings:
 
     # screens.rpy:803
     old "Help"
-    new "Help"
+    new "Pomoc"
 
     # screens.rpy:868
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "Clipboard voicing włączony. Naciśnij 'shift+C' aby wyłączyć."
 
     # screens.rpy:870
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing enabled. Press 'v' to disable."
+    new "Self-voicing włączony. Naciśnij 'v' aby wyłączyć."
 
