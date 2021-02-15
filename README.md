@@ -7,7 +7,7 @@ Common 0%<br/>
 Endings 95% (Wymaga sprawdzenia w grze)<br/>
 Hair Menu 95% (Wymaga sprawdzenia w grze)<br/>
 Screens 95% (Wymaga sprawdzenia w grze)<br/>
-Brofinder 0%<br/>
+Brofinder 95% (Wymaga sprawdzenia w grze)<br/>
 Poem assist 0%<br/>
 Poem 0%<br/>
 Poetry_lines 0%<br/>
