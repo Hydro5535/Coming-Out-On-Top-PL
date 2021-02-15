@@ -4,7 +4,7 @@ Progres tłumaczenia:<br/>
 <br/>
 #Pliki systemowe:<br/>
 Common 0%<br/>
-Endings 80%<br/>
+Endings 95% (Wymaga sprawdzenia w grze)<br/>
 Screen_hair_menu 0%<br/>
 Screens 0%<br/>
 Brofinder 0%<br/>
