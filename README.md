@@ -14,6 +14,7 @@ Poetry_lines 0%<br/>
 Trivia 95% (Wymaga sprawdzenia w grze)<br/>
 Main 0%<br/>
 Minigoals 0%<br/>
+Translation 95% (Wymaga sprawdzenia w grze)<br />
 <br/>
 #Główne linie dialogowe:<br/>
 Alex 0%<br/>
