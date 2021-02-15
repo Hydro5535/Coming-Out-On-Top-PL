@@ -6,7 +6,7 @@ Progres tłumaczenia:<br/>
 Common 0%<br/>
 Endings 95% (Wymaga sprawdzenia w grze)<br/>
 Screen_hair_menu 95% (Wymaga sprawdzenia w grze)<br/>
-Screens 0%<br/>
+Screens 95% (Wymaga sprawdzenia w grze)<br/>
 Brofinder 0%<br/>
 Poem_assist 0%<br/>
 Poem 0%<br/>
