@@ -250,7 +250,7 @@ translate languagetwo quize_game_60be6529:
 translate languagetwo quize_game_db07599e:
 
     # "You got [right_answers] out of 5 questions correct, not enough to make it to the next round."
-    "Masz [right_answers] poprawnych odpowiedzi na 5 pytań, niewystarczająco, aby przejść do następnej rundy."
+    "Masz [right_answers] poprawnych odpowiedzi na 5 pytań, niewystarczająco aby przejść do następnej rundy."
 
 # game/trivia.rpy:709
 translate languagetwo quize_game_0d688ecd:
@@ -280,7 +280,7 @@ translate languagetwo quize_game_189a773b:
 translate languagetwo quize_game_db07599e_1:
 
     # "You got [right_answers] out of 5 questions correct, not enough to make it to the next round."
-    "Masz [right_answers] poprawnych odpowiedzi na 5 pytań, niewystarczająco, aby przejść do następnej rundy."
+    "Masz [right_answers] poprawnych odpowiedzi na 5 pytań, niewystarczająco aby przejść do następnej rundy."
 
 # game/trivia.rpy:717
 translate languagetwo quize_game_b1afd6ad:
@@ -328,7 +328,7 @@ translate languagetwo quize_game_ea7d93aa:
 translate languagetwo quize_game_9f3279d3:
 
     # "You got [right_answers] out of 5 questions correct, not enough to win."
-    "Masz [right_answers] poprawnych odpowiedzi na 5 pytań, zbyt mało, aby wygrać."
+    "Masz [right_answers] poprawnych odpowiedzi na 5 pytań, zbyt mało aby wygrać."
 
 # game/trivia.rpy:733
 translate languagetwo quize_game_32e8da64:
