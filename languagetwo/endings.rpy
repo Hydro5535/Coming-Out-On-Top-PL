@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-02-14 23:20
+# TODO: Translation updated at 2021-02-15 13:26
 
 # game/endings.rpy:13
 translate languagetwo ending_closet_fecbe125:
@@ -220,79 +220,79 @@ translate languagetwo ending_closet_f8eefdce:
 translate languagetwo ending_closet_bb49000d:
 
     # mside "Think of this as practice for real life."
-    mside "Potraktuj to jako praktykę w prawdziwym życiu."
+    mside "Potraktuj to jako praktykę dla prawdziwego życia."
 
 # game/endings.rpy:102
 translate languagetwo ending_closet_990380b1:
 
     # mside "Are you able to approach life—every moment of every day, every person you meet, every new situation you encounter, with any measure of sincerity?"
-    mside "Are you able to approach life—every moment of every day, every person you meet, every new situation you encounter, with any measure of sincerity?"
+    mside "Czy jesteś w stanie podchodzić do życia - każdej chwili każdego dnia, każdej osoby, którą spotykasz, każdej nowej sytuacji, którą napotkasz, z jakąkolwiek dozą szczerości?"
 
 # game/endings.rpy:103
 translate languagetwo ending_closet_01c8933c:
 
     # mside "Do you understand the importance of humility? Not just that you're not {i}that{/i} great, but that you're no better than anyone else, at all?"
-    mside "Do you understand the importance of humility? Not just that you're not {i}that{/i} great, but that you're no better than anyone else, at all?"
+    mside "Czy rozumiesz, jak ważna jest pokora? Sądzisz, że jesteś taki {i}wspaniały{/i}?"
 
 # game/endings.rpy:104
 translate languagetwo ending_closet_a34088a2:
 
     # mside "Are you smart enough to realize the value of good humor? That cynicism is a toxic mix of fear and laziness? That life is a game best played while laughing?"
-    mside "Are you smart enough to realize the value of good humor? That cynicism is a toxic mix of fear and laziness? That life is a game best played while laughing?"
+    mside "Czy jesteś wystarczająco bystry, aby zdać sobie sprawę gdzie jest granica dobrego humoru? Ten cynizm to toksyczna mieszanka strachu i lenistwa? Odgrywanie tego życia prześmiewczo jest dla ciebie najlepsze?"
 
 # game/endings.rpy:105
 translate languagetwo ending_closet_ce774c3f:
 
     # mside "It's doubtful you really understand any of these things. You're probably much too young. These are truths that take many decades to seep into the bones of a man."
-    mside "It's doubtful you really understand any of these things. You're probably much too young. These are truths that take many decades to seep into the bones of a man."
+    mside "Wątpię, czy naprawdę rozumiesz którąkolwiek z tych rzeczy. Prawdopodobnie jesteś o wiele za młody. Są to prawdy, które przenikają do kości człowieka przez wiele dziesięcioleci."
 
 # game/endings.rpy:106
 translate languagetwo ending_closet_8059116c:
 
     # mside "Your choices so far reflect your immaturity."
-    mside "Your choices so far reflect your immaturity."
+    mside "Twoje dotychczasowe wybory odzwierciedlają twoją niedojrzałość."
 
 # game/endings.rpy:107
 translate languagetwo ending_closet_3fce8a42:
 
     # mside "If only you could go back in time. Have one more, just ONE MORE, try at being a real human being."
-    mside "If only you could go back in time. Have one more, just ONE MORE, try at being a real human being."
+    mside "Gdybyś tylko mógł cofnąć się w czasie. Spróbować jeszcze raz, tylko RAZ zachować się jak prawdziwy człowiek."
 
 # game/endings.rpy:108
 translate languagetwo ending_closet_de80294c:
 
     # mside "And not some witless punk trying to push on the boundaries of his environment, like an infant in a crib."
-    mside "And not some witless punk trying to push on the boundaries of his environment, like an infant in a crib."
+    mside "A nie jak jakiś bezmyślny punk próbujący przekroczyć granice swojego otoczenia, jak niemowlę w łóżeczku."
 
 # game/endings.rpy:109
 translate languagetwo ending_closet_4a08c640:
 
     # mside "If only you could go back, and instead of looking for what's broken, look for that which stands true."
-    mside "If only you could go back, and instead of looking for what's broken, look for that which stands true."
+    mside "Gdybyś tylko mógł wrócić, i zamiast szukać tego, co jest zepsute, szukać tego, co jest prawdą."
 
 # game/endings.rpy:110
 translate languagetwo ending_closet_eccdb883:
 
     # mside "Embrace creation over destruction, the connections between all things and not their separateness."
-    mside "Embrace creation over destruction, the connections between all things and not their separateness."
+    mside "Chwycić stworzenie ponad zniszczenie, połączenia między wszystkimi rzeczami, a nie ich odrębność."
 
 # game/endings.rpy:111
 translate languagetwo ending_closet_d0453f40:
 
     # mside "If only you could have that one last chance."
-    mside "If only you could have that one last chance."
+    mside "Jeżeli tylko miałbyś szanse spróbować jeszcze tylko ten jeden raz."
 
 # game/endings.rpy:112
 translate languagetwo ending_closet_bd47c1b8:
 
     # mside "But you can't. Life's not like that. You fucked up one too many times, homie."
-    mside "But you can't. Life's not like that. You fucked up one too many times, homie."
+    mside "Ale nie możesz. Życie takie nie jest. Spiepszyłeś to zbyt wiele razy."
 
 # game/endings.rpy:113
 translate languagetwo ending_closet_45e89e9c:
 
     # mside "This game will now auto-delete itself and you'll be blocked from re-downloading."
-    mside "This game will now auto-delete itself and you'll be blocked from re-downloading."
+    mside "Gra teraz automatycznie się usunie i zablokuje ci możliwość ponownego pobrania."
 
 # game/endings.rpy:114
 translate languagetwo ending_closet_9927ad97_1:
@@ -322,13 +322,13 @@ translate languagetwo ending_closet_7caea4a7:
 translate languagetwo ending_closet_e9cc4458:
 
     # mside "Seriously though, how do YOU like being fucked with?"
-    mside "Seriously though, how do YOU like being fucked with?"
+    mside "Poważnie? Uwielbiasz jak ktoś się z tobą użera prawda?"
 
 # game/endings.rpy:119
 translate languagetwo ending_closet_abf75463:
 
     # mside "Why don't you enjoy this nice, big cup of restart, a-hole."
-    mside "Why don't you enjoy this nice, big cup of restart, a-hole."
+    mside "Dleaczego nie podchodzisz do tego z wyrozumiałością."
 
 translate languagetwo strings:
 
@@ -338,7 +338,7 @@ translate languagetwo strings:
 
     # endings.rpy:22
     old "Back off, okay?  Coming out is stressful. I'm not sure if I can even do it in {i}a game{/i}."
-    new "Odsuń się, okay?  Coming out jest stresujący. Nie jestem pewien czy w ogóle uda mi się to zrobić w {i}grze{/i}."
+    new "Odwal się, okay?  Coming out jest stresujący. Nie jestem pewien czy w ogóle uda mi się to zrobić nawet w {i}grze{/i}."
 
     # endings.rpy:22
     old "Do not order me around. I call the shots. You're just a bunch of pixels."
