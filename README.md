@@ -9,7 +9,7 @@ Hair Menu 95% (Wymaga sprawdzenia w grze)<br/>
 Screens 95% (Wymaga sprawdzenia w grze)<br/>
 Brofinder 95% (Wymaga sprawdzenia w grze)<br/>
 Poem assist 0%<br/>
-Poem 0%<br/>
+Poem 100%<br/>
 Poetry_lines 0%<br/>
 Trivia 95% (Wymaga sprawdzenia w grze)<br/>
 Minigoals 0%<br/>
