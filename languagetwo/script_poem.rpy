@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-01-30 13:59
+# TODO: Translation updated at 2021-02-16 10:14
 
 # game/script_poem.rpy:19
 translate languagetwo amos_poem_b81762e5:
@@ -130,7 +130,7 @@ translate languagetwo strings:
 
     # script_poem.rpy:3
     old "Choose the title of your poem."
-    new "Choose the title of your poem."
+    new "Wybierz tytuł dla swojego wiersza."
 
     # script_poem.rpy:3
     old "[mean_title!t]"
@@ -150,7 +150,7 @@ translate languagetwo strings:
 
     # script_poem.rpy:21
     old "Choose the next line of your poem."
-    new "Choose the next line of your poem."
+    new "Wybierz następną linijkę swojego wiersza."
 
     # script_poem.rpy:21
     old "[romantic_l1!t]"
