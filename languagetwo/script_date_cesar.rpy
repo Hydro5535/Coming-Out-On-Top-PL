@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-02-14 18:51
+# TODO: Translation updated at 2021-02-20 00:13
 
 # game/script_date_cesar.rpy:7
 translate languagetwo cesar_intro_223a505e:
@@ -164,7 +164,7 @@ translate languagetwo cesar_intro_ee8f1d5a:
 translate languagetwo cesar_intro_d8e21d55:
 
     # thought "Man. This is great. I'm really cracking this guy up."
-    thought "Gościu. To jest super. Naprawdę rozbrajam tego faceta."
+    thought "Kurde. Jest mega. Naprawdę rozbrajam tego faceta."
 
 # game/script_date_cesar.rpy:50
 translate languagetwo cesar_intro_3696592f:
@@ -238,7 +238,7 @@ translate languagetwo cesar_intro_d0aac278:
     # nvl clear
     # mark_m "I'm glad I could help with the festivities."
     nvl clear
-    mark_m "Cieszę się, że mogłem pomóc w organizacji imprezie."
+    mark_m "Cieszę się, że mogłem pomóc w organizacji imprezy."
 
 # game/script_date_cesar.rpy:76
 translate languagetwo cesar_intro_fad09c4b:
@@ -312,7 +312,7 @@ translate languagetwo cesar_ian_ranch_1623f782:
 translate languagetwo cesar_ian_ranch_816faba8:
 
     # mside "Yeah, no. That's a bottle of {i}wine{/i}. I'm {i}not{/i} bringing a bottle of ranch."
-    mside "Yeah, nie. Takie wrażenie daje butelka {i}wina{/i}.{i}Nie{/i} słoik dressingu."
+    mside "Yeah, nie. Takie wrażenie daje butelka {i}wina{/i}. {i}Nie{/i} słoik dressingu."
 
 # game/script_date_cesar.rpy:110
 translate languagetwo cesar_ian_ranch_a5205e89:
@@ -372,7 +372,7 @@ translate languagetwo cesar_ian_ranch_17c41931:
 translate languagetwo cesar_ian_ranch_7c1dff75:
 
     # thought "Dammit, I thought we had some."
-    thought "Cholera, Myślałem, że mamy jeszcze trochę."
+    thought "Cholera, myślałem, że jeeszcze trochę zostało."
 
 # game/script_date_cesar.rpy:128
 translate languagetwo cesar_ian_ranch_852f3033:
@@ -432,7 +432,7 @@ translate languagetwo cesar_searching_shop_d2ed2511:
 translate languagetwo cesar_searching_shop_393a4c66:
 
     # mside "This must be one heck of a specialty popper shop. I guess he's really particular."
-    mside "To musi być bardzo specjalistyczny sklep z popperami. Myślę, że jest naprawdę szczególny."
+    mside "To musi być jakiś specjalistyczny sklep z popperami. Myślę, że jest naprawdę szczególny."
 
 # game/script_date_cesar.rpy:159
 translate languagetwo cesar_searching_shop_fc54ef3e:
@@ -498,7 +498,7 @@ translate languagetwo cesar_searching_shop_2acd22e9:
 translate languagetwo cesar_searching_shop_125a801b:
 
     # "Clenching your fists, you force yourself to approach the door."
-    "Clenching your fists, you force yourself to approach the door."
+    "Zaciskając pięści, zmuszasz się do zbliżenia się do drzwi."
 
 # game/script_date_cesar.rpy:195
 translate languagetwo cesar_searching_shop_fa0d08e2:
@@ -540,7 +540,7 @@ translate languagetwo cesar_searching_shop_5e5c582e:
 translate languagetwo cesar_searching_shop_5ac6633d:
 
     # "As you ponder the fate of your own booty call, a police car careens around the corner, blasting down the alley with lights flashing and siren blaring."
-    "As you ponder the fate of your own booty call, a police car careens around the corner, blasting down the alley with lights flashing and siren blaring."
+    "Kiedy zastanawiasz się nad losem swojej randki nagle słyszysz policyjny samochód jadący za rogiem w dół alejki z migającymi światłami i syreną."
 
 # game/script_date_cesar.rpy:207
 translate languagetwo cesar_searching_shop_9927ad97:
@@ -552,13 +552,13 @@ translate languagetwo cesar_searching_shop_9927ad97:
 translate languagetwo cesar_arrival_4e27b4b0:
 
     # "You freeze as the police car screeches to a halt in front of you, blocking the only way out. A voice erupts from the loudspeaker."
-    "You freeze as the police car screeches to a halt in front of you, blocking the only way out. A voice erupts from the loudspeaker."
+    "Zamierasz, gdy samochód policyjny z piskiem zatrzymuje się przed tobą, blokując jedyne wyjście. Z głośnika dobiega głos."
 
 # game/script_date_cesar.rpy:214
 translate languagetwo cesar_arrival_0a53b8ff:
 
     # cesar_off "PUT YOUR HANDS UP AND FACE AWAY FROM ME!"
-    cesar_off "PUT YOUR HANDS UP AND FACE AWAY FROM ME!"
+    cesar_off "RĘCE DO GÓRY I POWOLI ODWRÓĆ SIĘ W MOIM KIERUNKU!"
 
 # game/script_date_cesar.rpy:215
 translate languagetwo cesar_arrival_e3aadcf6:
@@ -570,19 +570,19 @@ translate languagetwo cesar_arrival_e3aadcf6:
 translate languagetwo cesar_arrival_258f6f1d:
 
     # "You turn and raise your arms, trying to look as harmless as possible."
-    "You turn and raise your arms, trying to look as harmless as possible."
+    "Odwracasz się i unosisz ręce, starając się wyglądać tak nieszkodliwie, jak to tylko możliwe."
 
 # game/script_date_cesar.rpy:220
 translate languagetwo cesar_arrival_92811cbf:
 
     # mside "Hi officer. Thank god you're here! I was looking for this shop—"
-    mside "Hi officer. Thank god you're here! I was looking for this shop—"
+    mside "Witam oficerze. Jak dobrze, że pan tu jest! Szukam takiego sklepu—"
 
 # game/script_date_cesar.rpy:221
 translate languagetwo cesar_arrival_c52ec4a6:
 
     # "A cop bursts from the vehicle and draws his gun, pointing it right at you."
-    "A cop bursts from the vehicle and draws his gun, pointing it right at you."
+    "Z pojazdu wyskakuje policjant i wyciąga broń, celując prosto w ciebie."
 
 # game/script_date_cesar.rpy:223
 translate languagetwo cesar_arrival_19c96ec0:
@@ -600,157 +600,157 @@ translate languagetwo cesar_arrival_fbcdbf9c:
 translate languagetwo cesar_arrival_2520f3e3:
 
     # "Judging by the intensity of his voice, he's not messing around."
-    "Judging by the intensity of his voice, he's not messing around."
+    "Sądząc po tonie jego głosu, nie wygłupia się."
 
 # game/script_date_cesar.rpy:228
 translate languagetwo cesar_arrival_0d6aa9ca:
 
     # "You raise your arms higher."
-    "You raise your arms higher."
+    "Podnosisz ręce jeszcze wyżej."
 
 # game/script_date_cesar.rpy:231
 translate languagetwo cesar_arrest_59da0c3d:
 
     # "As he approaches you, gun drawn, you feel like you're going to piss yourself."
-    "As he approaches you, gun drawn, you feel like you're going to piss yourself."
+    "Kiedy zbliża się do ciebie z wyciągniętą bronią, czujesz, że zaraz posikasz się ze strachu."
 
 # game/script_date_cesar.rpy:233
 translate languagetwo cesar_arrest_84593030:
 
     # mside "Can I ask why you're doing this, officer?!"
-    mside "Can I ask why you're doing this, officer?!"
+    mside "Mogę wiedzieć dlaczego pan to robi?!"
 
 # game/script_date_cesar.rpy:235
 translate languagetwo cesar_arrest_6446fcc4:
 
     # cesarside "You are under arrest for attempted possession and distribution of an illegal strain of alkyl nitrite."
-    cesarside "You are under arrest for attempted possession and distribution of an illegal strain of alkyl nitrite."
+    cesarside "Jesteś aresztowany za posiadania i dystrybucje nielegalnego rodzaju azotynu alkilu."
 
 # game/script_date_cesar.rpy:238
 translate languagetwo cesar_arrest_92e1f84f:
 
     # mside "Illegal nitrate?!? I was just going to pick up some poppers for a fiesta!"
-    mside "Illegal nitrate?!? I was just going to pick up some poppers for a fiesta!"
+    mside "Nielegalny azotan?!? Chciałem tylko odebrać poppersy na impreze!"
 
 # game/script_date_cesar.rpy:240
 translate languagetwo cesar_arrest_c540007f:
 
     # cesarside "Exactly."
-    cesarside "Exactly."
+    cesarside "Dokładnie."
 
 # game/script_date_cesar.rpy:243
 translate languagetwo cesar_arrest_e1fd4958:
 
     # mside "Wait. You're talking about a different kind of popper, aren't you?"
-    mside "Wait. You're talking about a different kind of popper, aren't you?"
+    mside "Chwile. Mówisz o innym rodzaju popperów, prawda?"
 
 # game/script_date_cesar.rpy:245
 translate languagetwo cesar_arrest_78da5d40:
 
     # cesarside "You know {i}exactly{/i} what kind of popper I'm talking about."
-    cesarside "You know {i}exactly{/i} what kind of popper I'm talking about."
+    cesarside "{i}Dokładnie{/i} wiesz o jakim rodzaju popperów mówie."
 
 # game/script_date_cesar.rpy:246
 translate languagetwo cesar_arrest_b8217e50:
 
     # "He removes his glasses, peering at your face closely."
-    "He removes his glasses, peering at your face closely."
+    "Zdejmuje okulary, uważnie wpatrując się w twoją twarz."
 
 # game/script_date_cesar.rpy:249
 translate languagetwo cesar_arrest_a108f919:
 
     # cesarside "C'mon. You seriously thought you were being asked to bring jalapeno poppers to a {i}fiesta{/i}?"
-    cesarside "C'mon. You seriously thought you were being asked to bring jalapeno poppers to a {i}fiesta{/i}?"
+    cesarside "Daj spokój. Naprawdę myślałeś, że proszono cię o przyniesienie poppersów z jalapeno na {i}imprezę{/i}?"
 
 # game/script_date_cesar.rpy:251
 translate languagetwo cesar_arrest_19ff5435:
 
     # cesarside "Drop the act, buddy. Nobody's {i}THIS{/i} clueless."
-    cesarside "Drop the act, buddy. Nobody's {i}THIS{/i} clueless."
+    cesarside "Daj spokój, nie udawaj. Nikt nie jest {i}TAK{/i} głupi."
 
 # game/script_date_cesar.rpy:253
 translate languagetwo cesar_arrest_b21a9c05:
 
     # mside "This isn't an act! I AM this clueless!"
-    mside "This isn't an act! I AM this clueless!"
+    mside "To nie jest udawanie! Ja jestem {i}tak{/i} głupi!"
 
 # game/script_date_cesar.rpy:255
 translate languagetwo cesar_arrest_2aca0ddd:
 
     # "You turn towards him–"
-    "You turn towards him–"
+    "Odwracasz się do niego–"
 
 # game/script_date_cesar.rpy:257
 translate languagetwo cesar_arrest_ac3a4a8a:
 
     # mside "Listen, officer–"
-    mside "Listen, officer–"
+    mside "Posłuchaj, oficerze-"
 
 # game/script_date_cesar.rpy:260
 translate languagetwo cesar_arrest_7849aac8:
 
     # cesarside "FACE THE WALL WITH YOUR HANDS UP!"
-    cesarside "FACE THE WALL WITH YOUR HANDS UP!"
+    cesarside "STÓJ TWARZĄ DO ŚCIANY Z RĘKOMA W GURZE!"
 
 # game/script_date_cesar.rpy:264
 translate languagetwo cesar_arrest_51654e9b:
 
     # "You bite your lip and stare at the wall, but not before stealing a glance at the well-built cop."
-    "You bite your lip and stare at the wall, but not before stealing a glance at the well-built cop."
+    "Przygryzasz wargę i wpatrujesz się w ścianę, wpierw wpatrując się w ciało muskularnego policjanta."
 
 # game/script_date_cesar.rpy:265
 translate languagetwo cesar_arrest_22d421ca:
 
     # "Though he's your height, he seems to be carrying an additional thirty pounds of solid muscle, not to mention a broad chest and trim waist."
-    "Though he's your height, he seems to be carrying an additional thirty pounds of solid muscle, not to mention a broad chest and trim waist."
+    "Mimo, że jest twojego wzrostu posiada jeszzce atuty w postaci muskularnego ciała, szerokiej klatki piersiowej i wyszczuplonej talii."
 
 # game/script_date_cesar.rpy:267
 translate languagetwo cesar_arrest_fed69caf:
 
     # mside "So {i}you're{/i} Cesar? You're actually a cop, and this is a sting?"
-    mside "So {i}you're{/i} Cesar? You're actually a cop, and this is a sting?"
+    mside "Więc {i}ty jesteś{/i} Cesar? Jesteś policjantem a to jest jakaś twoja gierka?"
 
 # game/script_date_cesar.rpy:268
 translate languagetwo cesar_arrest_c8d629ef:
 
     # "Instead of replying, he proceeds to cuff you."
-    "Instead of replying, he proceeds to cuff you."
+    "Zamiast odpowiedzieć, zaczyna cię zakuwać w kajdanki."
 
 # game/script_date_cesar.rpy:270
 translate languagetwo cesar_arrest_20fca597:
 
     # mside "I guess that answers my question."
-    mside "I guess that answers my question."
+    mside "Myślę, że to odpowiedź na moje pytanie."
 
 # game/script_date_cesar.rpy:271
 translate languagetwo cesar_arrest_88d65b0c:
 
     # "You catch sight of his bicep as it flexes, the huge arm barely contained by the sleeve of his shirt."
-    "You catch sight of his bicep as it flexes, the huge arm barely contained by the sleeve of his shirt."
+    "Widzisz jego biceps, gdy wygina ramię ledwo mieszczące się w rękawie jego koszuli."
 
 # game/script_date_cesar.rpy:273
 translate languagetwo cesar_arrest_0bcd54a2:
 
     # cesarside "So [m], are you {i}really{/i} a college student?"
-    cesarside "So [m], are you {i}really{/i} a college student?"
+    cesarside "Więc [m], {i}naprawde{/i} jesteś studentem?"
 
 # game/script_date_cesar.rpy:279
 translate languagetwo cesar_arrest_ef2543e9:
 
     # cesarside "Too bad you're gonna miss graduation."
-    cesarside "Too bad you're gonna miss graduation."
+    cesarside "Szkoda, że przegapisz zakończenie szkoły."
 
 # game/script_date_cesar.rpy:281
 translate languagetwo cesar_arrest_6afff39c:
 
     # mside "But this is ridiculous! I ASSUMED you meant jalapeno poppers! I thought I was being NICE by picking them up for you!"
-    mside "But this is ridiculous! I ASSUMED you meant jalapeno poppers! I thought I was being NICE by picking them up for you!"
+    mside "Ale to jest śmieszne! ZAKŁADAŁEM, że masz na myśli poppersy jalapeno! Myślałem, że MIŁE, będzie z mojej strony odbieranie ich dla ciebie!"
 
 # game/script_date_cesar.rpy:283
 translate languagetwo cesar_arrest_4333b76f:
 
     # cesarside "Cut the bullshit. This drug has been on the street for months. It's lethal."
-    cesarside "Cut the bullshit. This drug has been on the street for months. It's lethal."
+    cesarside "Przestań gadać bzdury bzdury. Ten narkotyk był na ulicy od miesięcy. Jest zabójczy."
 
 # game/script_date_cesar.rpy:285
 translate languagetwo cesar_arrest_a86081e0:
@@ -1794,7 +1794,7 @@ translate languagetwo cesar_innocent_dc54d795:
 translate languagetwo cesar_innocent_b10d6164:
 
     # mside "What?"
-    mside "What?"
+    mside "Co?"
 
 # game/script_date_cesar.rpy:758
 translate languagetwo cesar_innocent_efe3b82b:
@@ -1842,7 +1842,7 @@ translate languagetwo cesar_innocent_84bd0fa5:
 translate languagetwo cesar_innocent_f4226705:
 
     # i_off "Whaaaaa? Noooo."
-    i_off "Whaaaaa? Noooo."
+    i_off "Cooooo? Nieeee."
 
 # game/script_date_cesar.rpy:772
 translate languagetwo cesar_innocent_7da20663:
@@ -1878,7 +1878,7 @@ translate languagetwo cesar_innocent_afce3566:
 translate languagetwo cesar_innocent_baf14fbe:
 
     # mside "Yes. I know."
-    mside "Yes. I know."
+    mside "Tak, wiem."
 
 # game/script_date_cesar.rpy:784
 translate languagetwo cesar_innocent_9fb7695b:
