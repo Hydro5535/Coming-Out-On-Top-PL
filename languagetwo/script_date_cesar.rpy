@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-02-22 01:16
+# TODO: Translation updated at 2021-02-22 01:46
 
 # game/script_date_cesar.rpy:7
 translate languagetwo cesar_intro_223a505e:
@@ -120,7 +120,7 @@ translate languagetwo cesar_intro_4743a8b3:
 translate languagetwo cesar_intro_20dd1091:
 
     # cesar_m "Poppers."
-    cesar_m "Poppers."
+    cesar_m "Poppersy."
 
 # game/script_date_cesar.rpy:41
 translate languagetwo cesar_intro_64e9d978:
@@ -258,13 +258,13 @@ translate languagetwo cesar_intro_2b4d7baf:
 translate languagetwo cesar_intro_1e2efe9f:
 
     # "You're not sure why Cesar thinks you're a riot, but his compliments still feel good, if slightly puzzling."
-    "Nie jesteś pewien, dlaczego Cesar uważa, że ​​jesteś żartownisiem, ale jego komplementy wciąż są miłe, choć nieco zagadkowe."
+    "Nie jesteś pewien, dlaczego Cesar uważa, że ​​jesteś żartownisiem, ale jego komplementy są miłe, choć nieco zagadkowe."
 
 # game/script_date_cesar.rpy:84
 translate languagetwo cesar_intro_7a0b7480:
 
     # mside "Guess I'm just a natural comedian."
-    mside "Zgaduje, że jestem poprostu urodzonym komediantem."
+    mside "Zgaduje, że jestem po prostu urodzonym komediantem."
 
 # game/script_date_cesar.rpy:93
 translate languagetwo cesar_ian_ranch_00a7156c:
@@ -444,7 +444,7 @@ translate languagetwo cesar_searching_shop_fc54ef3e:
 translate languagetwo cesar_searching_shop_68f84608:
 
     # "You decide to check around the side."
-    "Decydujeszz się sprawdzić z boku."
+    "Decydujesz się sprawdzić z boku."
 
 # game/script_date_cesar.rpy:165
 translate languagetwo cesar_searching_shop_4230ec20:
@@ -702,7 +702,7 @@ translate languagetwo cesar_arrest_51654e9b:
 translate languagetwo cesar_arrest_22d421ca:
 
     # "Though he's your height, he seems to be carrying an additional thirty pounds of solid muscle, not to mention a broad chest and trim waist."
-    "Mimo, że jest twojego wzrostu posiada jeszzce atuty w postaci muskularnego ciała, szerokiej klatki piersiowej i wyszczuplonej talii."
+    "Mimo, że jest twojego wzrostu posiada jeszcze atuty w postaci muskularnego ciała, szerokiej klatki piersiowej i wyszczuplonej talii."
 
 # game/script_date_cesar.rpy:267
 translate languagetwo cesar_arrest_fed69caf:
@@ -1128,7 +1128,7 @@ translate languagetwo cesar_cavity_search_b596d51f:
 translate languagetwo cesar_cavity_search_cbc5e971:
 
     # cesarside "I'm not through searching you."
-    cesarside "Nie będę cię dalej przeszukiwać."
+    cesarside "Więc muszę się upewnić."
 
 # game/script_date_cesar.rpy:488
 translate languagetwo cesar_cavity_search_0ba533dd:
@@ -2081,7 +2081,7 @@ translate languagetwo strings:
 
     # script_date_cesar.rpy:463
     old "Well judging by that bulge in your pants, seems like you'd be more than happy to volunteer."
-    new "Sądząc po wybrzuszeniu w spodniach, wydaje się, że byłbyś bardziej niż szczęśliwy, gdybyś został wolontariuszem."
+    new "Sądząc po wybrzuszeniu w spodniach, wydaje się, że byłbyś bardziej niż szczęśliwy, gdybym to zrobił."
 
     # script_date_cesar.rpy:463
     old "Sorry officer. I'll behave now."
