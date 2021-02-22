@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-02-21 02:32
+# TODO: Translation updated at 2021-02-22 01:16
 
 # game/script_date_cesar.rpy:7
 translate languagetwo cesar_intro_223a505e:
@@ -1134,7 +1134,7 @@ translate languagetwo cesar_cavity_search_cbc5e971:
 translate languagetwo cesar_cavity_search_0ba533dd:
 
     # "You feel your cock harden as Cesar's eyes wander over your body."
-    "Czujesz, jak twój pewnis twardnieje, gdy oczy Cesara wędrują po twoim ciele."
+    "Czujesz, jak twój penis twardnieje, gdy oczy Cesara wędrują po twoim ciele."
 
 # game/script_date_cesar.rpy:489
 translate languagetwo cesar_cavity_search_33be9d6c:
@@ -1158,13 +1158,13 @@ translate languagetwo cesar_cavity_search_7f44cc0f:
 translate languagetwo cesar_cavity_search_14b6b5bd:
 
     # "Your erect cock swings upward, free of its confines. You hear him exhale and feel him palm both globes of your naked ass in his hands."
-    "Your erect cock swings upward, free of its confines. You hear him exhale and feel him palm both globes of your naked ass in his hands."
+    "Twój wyprostowany kutas kołysze się w górę, uwalniając się od jego ograniczeń. Słyszysz, jak robi wydech i czujesz, jak trzyma w dłoniach twoj nagi tyłek."
 
 # game/script_date_cesar.rpy:493
 translate languagetwo cesar_cavity_search_b7e87bf3:
 
     # "Leaving you partly naked and bent over, he hurries over to the trunk, pops it open, returning with a small black bag."
-    "Leaving you partly naked and bent over, he hurries over to the trunk, pops it open, returning with a small black bag."
+    "Zostawiając cię częściowo nagiego i pochylonego, podbiega do bagażnika, otwiera go i wraca z małą czarną torbą."
 
 # game/script_date_cesar.rpy:495
 translate languagetwo cesar_cavity_search_d2569b1d:
@@ -1176,43 +1176,43 @@ translate languagetwo cesar_cavity_search_d2569b1d:
 translate languagetwo cesar_cavity_search_a98fcd0b:
 
     # cesarside "Seeing if you're hiding any contraband in there, suspect."
-    cesarside "Seeing if you're hiding any contraband in there, suspect."
+    cesarside "Sprawdzam, czy nie ukrywasz tam czegoś."
 
 # game/script_date_cesar.rpy:498
 translate languagetwo cesar_cavity_search_51d96867:
 
     # "Your eyes widen as he pulls out a latex glove and snaps it on, rubbing a dollop of lubricant expertly between his fingers."
-    "Your eyes widen as he pulls out a latex glove and snaps it on, rubbing a dollop of lubricant expertly between his fingers."
+    "Twoje oczy rozszerzają się, gdy wyciąga lateksową rękawiczkę i zakłada ją, wprawnie pocierając krople lubrykantu między palcami."
 
 # game/script_date_cesar.rpy:500
 translate languagetwo cesar_cavity_search_6d9300a4:
 
     # cesarside "Now bend over, punk."
-    cesarside "Now bend over, punk."
+    cesarside "Teraz pochyl się, śmieciu."
 
 # game/script_date_cesar.rpy:501
 translate languagetwo cesar_cavity_search_8f8cc99d:
 
     # "You comply, pulse racing, rock hard."
-    "You comply, pulse racing, rock hard."
+    "Podporządkowujesz się, serce bije szybciej, a twój penis jest twardy jak skała."
 
 # game/script_date_cesar.rpy:502
 translate languagetwo cesar_cavity_search_877e7abe:
 
     # "He groans as he squeezes your ass, then slaps them, watching the firm, round flesh jiggle, transfixed."
-    "He groans as he squeezes your ass, then slaps them, watching the firm, round flesh jiggle, transfixed."
+    "Jęczy, ściskając twój tyłek, a potem klepie go i patrzy, jak jędrne, pośladki odbijają się od siebie."
 
 # game/script_date_cesar.rpy:503
 translate languagetwo cesar_cavity_search_9ead6bcb:
 
     # "His fingers dig into your flesh as he spreads your cheeks apart. You can feel his breath on your hole as he examines it, sliding an exploratory finger in the crack."
-    "His fingers dig into your flesh as he spreads your cheeks apart. You can feel his breath on your hole as he examines it, sliding an exploratory finger in the crack."
+    "Jego palce wbijają się w twoje ciało, gdy rozsuwa twój tyłek. Możesz poczuć jego oddech na swojej dziurze, gdy ją ogląda, wsuwając badawczy palec w szczelinę."
 
 # game/script_date_cesar.rpy:504
 translate languagetwo cesar_cavity_search_edda4a16:
 
     # "You hear him breathing hard as he works the lube around your asshole, sawing his finger back and forth."
-    "You hear him breathing hard as he works the lube around your asshole, sawing his finger back and forth."
+    "Słyszysz, jak ciężko oddycha, kiedy smaruje lubrykantem twój tyłek, ruszajac palecem tam iz powrotem."
 
 # game/script_date_cesar.rpy:506
 translate languagetwo cesar_cavity_search_938e0e6b:
@@ -1224,19 +1224,19 @@ translate languagetwo cesar_cavity_search_938e0e6b:
 translate languagetwo cesar_cavity_search_5d77f2ef:
 
     # cesarside "You're really tight. I guess this is going to require further inspection."
-    cesarside "You're really tight. I guess this is going to require further inspection."
+    cesarside "Jesteś naprawdę ciasny. Myślę, że będzie to wymagało dalszej kontroli."
 
 # game/script_date_cesar.rpy:509
 translate languagetwo cesar_cavity_search_7d8b3a45:
 
     # "You hold your breath as he covers his index finger with more lube."
-    "You hold your breath as he covers his index finger with more lube."
+    "Wstrzymujesz oddech, gdy smaruje swój palec wskazujący większą ilością lubrykantu."
 
 # game/script_date_cesar.rpy:510
 translate languagetwo cesar_cavity_search_ea603e4c:
 
     # "Spreading your ass cheeks with his fingers, he begins to push the lubed digit into you."
-    "Spreading your ass cheeks with his fingers, he begins to push the lubed digit into you."
+    "Rozpościerając palcami pośladki, zaczyna wciskać w ciebie większą ilośćlubrykantu."
 
 # game/script_date_cesar.rpy:512
 translate languagetwo cesar_cavity_search_5d1a0881:
@@ -1248,103 +1248,103 @@ translate languagetwo cesar_cavity_search_5d1a0881:
 translate languagetwo cesar_cavity_search_d7132915:
 
     # "A gasp escapes your lips."
-    "A gasp escapes your lips."
+    "Westchnienie wyrywa się z twoich ust."
 
 # game/script_date_cesar.rpy:527
 translate languagetwo cesar_cavity_search_842c5a87:
 
     # "Your cock twitches and lengthens further."
-    "Your cock twitches and lengthens further."
+    "Twój kutas drga i dalej się zwiększa."
 
 # game/script_date_cesar.rpy:528
 translate languagetwo cesar_cavity_search_84c315eb:
 
     # "He works the lube around, adding another finger."
-    "He works the lube around, adding another finger."
+    "Rozprowadza lubrykant dookoła, dodając kolejny palec."
 
 # game/script_date_cesar.rpy:529
 translate languagetwo cesar_cavity_search_670fc467:
 
     # "You feel yourself clench around him, squirming from simultaneous discomfort and pleasure."
-    "You feel yourself clench around him, squirming from simultaneous discomfort and pleasure."
+    "Czujesz, jak zaciskasz się wokół niego, wijąc się z jednoczesnego dyskomfortu i przyjemności."
 
 # game/script_date_cesar.rpy:530
 translate languagetwo cesar_cavity_search_47e1bc20:
 
     # "Encouraged by your whimpers, he slides his fingers deeper, feeling around, rubbing your insides almost inquisitively."
-    "Encouraged by your whimpers, he slides his fingers deeper, feeling around, rubbing your insides almost inquisitively."
+    "Zachęcony twoimi jękami wsuwa palce głębiej, obmacując, pocierając cię wewnątrz niemal dociekliwie."
 
 # game/script_date_cesar.rpy:531
 translate languagetwo cesar_cavity_search_6161b3a7:
 
     # "He pushes his fingers all the way into your ass, rubbing against your prostate."
-    "He pushes his fingers all the way into your ass, rubbing against your prostate."
+    "Wbija palce w twój tyłek, ocierając się o twoją prostatę."
 
 # game/script_date_cesar.rpy:532
 translate languagetwo cesar_cavity_search_ed907072:
 
     # "You gasp."
-    "You gasp."
+    "Sapiesz."
 
 # game/script_date_cesar.rpy:539
 translate languagetwo cesar_cavity_search_427d8669:
 
     # "He strokes your insides over and over. You feel like you're going to explode right then and there, your breath ragged and your knees nearly buckling from the pleasure."
-    "He strokes your insides over and over. You feel like you're going to explode right then and there, your breath ragged and your knees nearly buckling from the pleasure."
+    "Cały czas stymuluje ci prostate. Czujesz, że zaraz wybuchniesz, oddech urywa się, a kolana prawie uginają się od przyjemności."
 
 # game/script_date_cesar.rpy:542
 translate languagetwo cesar_cavity_search_68b25cdc:
 
     # "Finally, after what feels like an eternity, he pulls his fingers out."
-    "Finally, after what feels like an eternity, he pulls his fingers out."
+    "Wreszcie, po tym, co wydaje się wiecznością, wyciąga palce."
 
 # game/script_date_cesar.rpy:546
 translate languagetwo cesar_cavity_search_b878305a:
 
     # cesarside "Don't let me catch you running poppers again."
-    cesarside "Don't let me catch you running poppers again."
+    cesarside "I żebym więcej nie spotkał cię próbującego kupić nielegalne poppersy."
 
 # game/script_date_cesar.rpy:548
 translate languagetwo cesar_cavity_search_695076cc:
 
     # mside "I told you, I wasn't running poppers!"
-    mside "I told you, I wasn't running poppers!"
+    mside "Mowiłem ci, nie maiłem zamiaru nic takiego robić!"
 
 # game/script_date_cesar.rpy:549
 translate languagetwo cesar_cavity_search_22ce6737:
 
     # "He uncuffs you."
-    "He uncuffs you."
+    "Rozkuwa cię."
 
 # game/script_date_cesar.rpy:551
 translate languagetwo cesar_cavity_search_266f2555:
 
     # cesarside "Stop arguing with me and just stay out of trouble, punk."
-    cesarside "Stop arguing with me and just stay out of trouble, punk."
+    cesarside "Przestań się ze mną kłócić i po prostu unikaj kłopotów, śmieciu."
 
 # game/script_date_cesar.rpy:553
 translate languagetwo cesar_cavity_search_b25d703f:
 
     # "You watch his car roll out of the alleyway as you pull your jeans back on."
-    "You watch his car roll out of the alleyway as you pull your jeans back on."
+    "Patrzysz, jak jego samochód wyjeżdża z alejki, gdy z powrotem zakładasz dżinsy."
 
 # game/script_date_cesar.rpy:554
 translate languagetwo cesar_cavity_search_c282fc5e:
 
     # thought "Wait. So THAT's supposed to DETER me?"
-    thought "Wait. So THAT's supposed to DETER me?"
+    thought "Chwile. Więc TO miało mnie POWSTRZYMAĆ?"
 
 # game/script_date_cesar.rpy:555
 translate languagetwo cesar_cavity_search_37fbfb0e:
 
     # thought "No wonder the crime rate is so high."
-    thought "No wonder the crime rate is so high."
+    thought "Nic dziwnego, że wskaźnik przestępczości jest tak wysoki."
 
 # game/script_date_cesar.rpy:556
 translate languagetwo cesar_cavity_search_ded6ae65:
 
     # "You walk back to your own vehicle, your ass still tingling from the cavity search."
-    "You walk back to your own vehicle, your ass still tingling from the cavity search."
+    "Wracasz do swojego pojazdu, a twój tyłek wciąż mrowi od to co przed chwilą miało mijsce."
 
 # game/script_date_cesar.rpy:558
 translate languagetwo cesar_cavity_search_3dd6ca1b:
@@ -1356,31 +1356,31 @@ translate languagetwo cesar_cavity_search_3dd6ca1b:
 translate languagetwo cesar_anal_c4cf4685:
 
     # "A dark look passes over his face."
-    "A dark look passes over his face."
+    "Na jego twarzy pojawia się ciemny wyraz."
 
 # game/script_date_cesar.rpy:564
 translate languagetwo cesar_anal_f68d7e2f:
 
     # "He pushes you towards the cruiser, opens the door, and grabs something. You can't see what's in his hand."
-    "He pushes you towards the cruiser, opens the door, and grabs something. You can't see what's in his hand."
+    "Popycha cię w stronę radiowozu, otwiera drzwi i coś łapie. Nie jesteś w stanie zobaczyć co trzyma w ręce."
 
 # game/script_date_cesar.rpy:566
 translate languagetwo cesar_anal_550153ae:
 
     # mside "What'd you do, rookie? Call for backup?"
-    mside "What'd you do, rookie? Call for backup?"
+    mside "Co zrobisz nowicjuszu? Zadzwonisz po wsparcie?"
 
 # game/script_date_cesar.rpy:568
 translate languagetwo cesar_anal_41c05672:
 
     # cesarside "Goddamn it, you little punk—"
-    cesarside "Goddamn it, you little punk—"
+    cesarside "Cholera, mały śmieciu—"
 
 # game/script_date_cesar.rpy:570
 translate languagetwo cesar_anal_3f642be2:
 
     # "Cesar grabs you by the neck, kisses your mouth roughly, and bends you over the hood."
-    "Cesar grabs you by the neck, kisses your mouth roughly, and bends you over the hood."
+    "Cesar chwyta cię za szyję, szorstko całuje w usta i pochyla cię nad kapturem."
 
 # game/script_date_cesar.rpy:573
 translate languagetwo cesar_anal_2d2db825:
@@ -1392,13 +1392,13 @@ translate languagetwo cesar_anal_2d2db825:
 translate languagetwo cesar_anal_7ba340d4:
 
     # "You feel the hard, cold metal beneath your cheek as you strain against your handcuffs."
-    "You feel the hard, cold metal beneath your cheek as you strain against your handcuffs."
+    "Czujesz twardy, zimny metal pod policzkiem, gdy napinasz kajdanki."
 
 # game/script_date_cesar.rpy:577
 translate languagetwo cesar_anal_84563a3c:
 
     # cesarside "Is this what you want? You like testing me, you little punk?"
-    cesarside "Is this what you want? You like testing me, you little punk?"
+    cesarside "To jest to czego chcesz? Lubisz mnie sprawdzać, mały śmieciu?"
 
 # game/script_date_cesar.rpy:584
 translate languagetwo cesar_anal_d4bcc7ed:
@@ -1410,37 +1410,37 @@ translate languagetwo cesar_anal_d4bcc7ed:
 translate languagetwo cesar_anal_8f6f4d28:
 
     # "Cesar helps you up."
-    "Cesar helps you up."
+    "Cesar pomaga ci wstać."
 
 # game/script_date_cesar.rpy:586
 translate languagetwo cesar_anal_362e931a:
 
     # "You stand back up, a little shaky, as you struggle to balance yourself due to being cuffed."
-    "You stand back up, a little shaky, as you struggle to balance yourself due to being cuffed."
+    "Wstajesz, trochę trzęsąc się, gdy walczysz o równowagę z powodu kajdanek."
 
 # game/script_date_cesar.rpy:588
 translate languagetwo cesar_anal_bdad467d:
 
     # cesarside "Just what the hell were you expecting me to do, exactly?"
-    cesarside "Just what the hell were you expecting me to do, exactly?"
+    cesarside "Dokładnie czego, do cholery, ty ode mnie oczekiwałeś?"
 
 # game/script_date_cesar.rpy:590
 translate languagetwo cesar_anal_4f19eb2e:
 
     # mside "God, I dunno...I thought you were gonna tickle me or something."
-    mside "God, I dunno...I thought you were gonna tickle me or something."
+    mside "Boże, Nie wiem... Myślałem, że będziesz mnie łaskotać czy coś."
 
 # game/script_date_cesar.rpy:592
 translate languagetwo cesar_anal_6cf2958c:
 
     # cesarside "You mean..."
-    cesarside "You mean..."
+    cesarside "Ty myślałeś..."
 
 # game/script_date_cesar.rpy:594
 translate languagetwo cesar_anal_24d19f1c:
 
     # cesarside "...like this?"
-    cesarside "...like this?"
+    cesarside "...w ten sposób?"
 
 # game/script_date_cesar.rpy:597
 translate languagetwo cesar_anal_80527f43:
@@ -1452,7 +1452,7 @@ translate languagetwo cesar_anal_80527f43:
 translate languagetwo cesar_anal_76a22a53:
 
     # cesarside "Or this?"
-    cesarside "Or this?"
+    cesarside "Albo tak?"
 
 # game/script_date_cesar.rpy:604
 translate languagetwo cesar_anal_2ed4e563:
@@ -1464,7 +1464,7 @@ translate languagetwo cesar_anal_2ed4e563:
 translate languagetwo cesar_anal_4c73d7b5:
 
     # mside "AHAHAHA! {size=-10}OH GOD UNCUFF ME...GONNA PISS MY PANTS...{/size}"
-    mside "AHAHAHA! {size=-10}OH GOD UNCUFF ME...GONNA PISS MY PANTS...{/size}"
+    mside "AHAHAHA! {size=-10}O, BOŻE...ZARAZ SIĘ POSIKAM...{/size}"
 
 # game/script_date_cesar.rpy:609
 translate languagetwo cesar_anal_3dd6ca1b:
@@ -1476,43 +1476,43 @@ translate languagetwo cesar_anal_3dd6ca1b:
 translate languagetwo cesar_anal_8f068fd7:
 
     # mside "Oh yeah..."
-    mside "Oh yeah..."
+    mside "Oh tak..."
 
 # game/script_date_cesar.rpy:617
 translate languagetwo cesar_anal_f830b2a1:
 
     # "You feel his hands circle your waist, unbutton your jeans, and slide them off."
-    "You feel his hands circle your waist, unbutton your jeans, and slide them off."
+    "Czujesz, jak jego ręce otaczają Twoją talię, rozpinają dżinsy i zsuwają je."
 
 # game/script_date_cesar.rpy:618
 translate languagetwo cesar_anal_7f44cc0f:
 
     # "A thrill pulses through your body at the feel of the air upon your naked skin."
-    "A thrill pulses through your body at the feel of the air upon your naked skin."
+    "Dreszcz przeszywa twoje ciało, czując zimne powietrze na nagiej skórze."
 
 # game/script_date_cesar.rpy:619
 translate languagetwo cesar_anal_96a50f14:
 
     # "Somewhat glad that the cruiser would be blocking the view from the street, yet still petrified someone might walk by at any moment, you feel your throat go dry and your heart hammer in your chest."
-    "Somewhat glad that the cruiser would be blocking the view from the street, yet still petrified someone might walk by at any moment, you feel your throat go dry and your heart hammer in your chest."
+    "Nieco uspokojony, że radiowuz zasłaniałby widok z ulicy, a mimo to nadal sparaliżowany myślą, że ktoś może przejść w każdej chwili, czujesz, że wysycha ciw gardle, a serce wali jak oszalałe."
 
 # game/script_date_cesar.rpy:622
 translate languagetwo cesar_anal_92a1c6a9:
 
     # "You hear him snap on a condom, and sense something cold pour down your asscrack."
-    "You hear him snap on a condom, and sense something cold pour down your asscrack."
+    "Słyszysz, jak zakłada prezerwatywę i czujesz, jak coś zimnego spływa po twoim tyłku."
 
 # game/script_date_cesar.rpy:624
 translate languagetwo cesar_anal_96b6e92f:
 
     # "You feel something cold pour down your asscrack."
-    "You feel something cold pour down your asscrack."
+    "Czujesz, jak coś zimnego wylewa się z twojego tyłkak."
 
 # game/script_date_cesar.rpy:626
 translate languagetwo cesar_anal_519c67b2:
 
     # "Positioning himself behind you, Cesar grips your hips as he starts to work his dick between your ass cheeks."
-    "Positioning himself behind you, Cesar grips your hips as he starts to work his dick between your ass cheeks."
+    "Ustawiając się za tobą, Cesar chwyta twoje biodra, gdy zaczyna pracować swoim kutasem między twoimi pośladkami."
 
 # game/script_date_cesar.rpy:630
 translate languagetwo cesar_anal_2d2db825_1:
@@ -1524,19 +1524,19 @@ translate languagetwo cesar_anal_2d2db825_1:
 translate languagetwo cesar_anal_5ec2756c:
 
     # "He slaps your ass and grabs you by the hair."
-    "He slaps your ass and grabs you by the hair."
+    "Klepie cię w tyłek i chwyta za włosy."
 
 # game/script_date_cesar.rpy:633
 translate languagetwo cesar_anal_715e86dd:
 
     # cesarside "God, you're so fucking tight."
-    cesarside "God, you're so fucking tight."
+    cesarside "Boże, jesteś taki cholernie ciasny."
 
 # game/script_date_cesar.rpy:636
 translate languagetwo cesar_anal_78c0c4cc:
 
     # "Feeling his grip on your hips, you stifle a groan as he works the head of his cock into your tight hole."
-    "Feeling his grip on your hips, you stifle a groan as he works the head of his cock into your tight hole."
+    "Czując jego uścisk na twoich biodrach, tłumisz jęk, gdy wkłada czubek swojego kutasa w twoją ciasną dziurkę."
 
 # game/script_date_cesar.rpy:638
 translate languagetwo cesar_anal_f89f4def:
@@ -1548,61 +1548,61 @@ translate languagetwo cesar_anal_f89f4def:
 translate languagetwo cesar_anal_b6504009:
 
     # "You press your cheek against the hood of the cruiser, groaning and whimpering, feeling your fuck-hole stretch over and around the head of his shaft."
-    "You press your cheek against the hood of the cruiser, groaning and whimpering, feeling your fuck-hole stretch over and around the head of his shaft."
+    "Naciskasz twarzą na maskę radiowozi, jęcząc i skomląc, czując, jak twój odbyta rozciąga się wokół jego penisa."
 
 # game/script_date_cesar.rpy:640
 translate languagetwo cesar_anal_9e3a6893:
 
     # "His head breaches your hole, followed by the rest of his cock, sliding in, stretching you, filling you up."
-    "His head breaches your hole, followed by the rest of his cock, sliding in, stretching you, filling you up."
+    "Jego głowa przebija twoją dziurę, a następnie reszta jego penisa, wsuwając się, rozciągając cię i wypełniając."
 
 # game/script_date_cesar.rpy:641
 translate languagetwo cesar_anal_bf8e0150:
 
     # "He works himself in, deeper."
-    "He works himself in, deeper."
+    "Wchodzi coraz głębiej."
 
 # game/script_date_cesar.rpy:643
 translate languagetwo cesar_anal_690cdd51:
 
     # cesarside "Oh fuck. Yeah, that's good."
-    cesarside "Oh fuck. Yeah, that's good."
+    cesarside "Oh kurwa. To jest zajebiste."
 
 # game/script_date_cesar.rpy:645
 translate languagetwo cesar_anal_17357d95:
 
     # mside "Oh god, how many inches is that..."
-    mside "Oh god, how many inches is that..."
+    mside "O Boże, ile to centymetrów..."
 
 # game/script_date_cesar.rpy:647
 translate languagetwo cesar_anal_9b997c91:
 
     # cesarside "Hell, I'm not even all the way in yet!"
-    cesarside "Hell, I'm not even all the way in yet!"
+    cesarside "To jeszcze nawet nie połowa!"
 
 # game/script_date_cesar.rpy:661
 translate languagetwo cesar_anal_3bb2ffd9:
 
     # "Slowly, he buries himself to the hilt, using his grip on your neck to leverage himself."
-    "Slowly, he buries himself to the hilt, using his grip on your neck to leverage himself."
+    "Powoli zagłębiał sięcoraz bardzieł, łapiąc cię za szyję."
 
 # game/script_date_cesar.rpy:662
 translate languagetwo cesar_anal_c319b609:
 
     # "A line of sweat breaks out across your forehead."
-    "A line of sweat breaks out across your forehead."
+    "Na czole pojawia się strużka potu."
 
 # game/script_date_cesar.rpy:663
 translate languagetwo cesar_anal_3d088c43:
 
     # "The car's suspension creaks as he starts to saw in and out of your ass with his throbbing cock."
-    "The car's suspension creaks as he starts to saw in and out of your ass with his throbbing cock."
+    "Zawieszenie samochodu skrzypi, gdy zaczyna wbijać się w twój tyłek swoim pulsującym kutasem."
 
 # game/script_date_cesar.rpy:665
 translate languagetwo cesar_anal_9cd0645d:
 
     # cesarside "Take it you little punk."
-    cesarside "Take it you little punk."
+    cesarside "Weź to mały śmieciu."
 
 # game/script_date_cesar.rpy:667
 translate languagetwo cesar_anal_3cb46ab9:
@@ -1614,145 +1614,145 @@ translate languagetwo cesar_anal_3cb46ab9:
 translate languagetwo cesar_anal_a3492647:
 
     # cesarside "Fuck, that's good. Back your ass onto my dick!"
-    cesarside "Fuck, that's good. Back your ass onto my dick!"
+    cesarside "Kurwa, zajebiście. Wkładaj go sobie!"
 
 # game/script_date_cesar.rpy:679
 translate languagetwo cesar_anal_1689f3f9:
 
     # "You push back into him, groaning from the effort."
-    "You push back into him, groaning from the effort."
+    "Wciskasz się w niego, a jego penis przeszywa twój odbyt. Jęczysz z wysiłku."
 
 # game/script_date_cesar.rpy:681
 translate languagetwo cesar_anal_254d3c27:
 
     # cesarside "Yeah, just like that. Oh shit!"
-    cesarside "Yeah, just like that. Oh shit!"
+    cesarside "Yeah, dokładnie tak. Oh cholera!"
 
 # game/script_date_cesar.rpy:682
 translate languagetwo cesar_anal_ba879863:
 
     # "You bite your lip, hear the creak of the car against your ear, and feel his thighs slam against the the back of yours, his balls slapping the bottom of your ass cheeks."
-    "You bite your lip, hear the creak of the car against your ear, and feel his thighs slam against the the back of yours, his balls slapping the bottom of your ass cheeks."
+    "Przygryzasz usta, usłysz skrzypienie samochodu przy uchu, i czujesz jak jego jaja uderzają o twój tyłek."
 
 # game/script_date_cesar.rpy:684
 translate languagetwo cesar_anal_9f7e7e9d:
 
     # cesarside "Good work, citizen. You're a {i}superstar{/i}. An upstanding pillar of the community."
-    cesarside "Good work, citizen. You're a {i}superstar{/i}. An upstanding pillar of the community."
+    cesarside "Dobra robota, obywatelu. Jesteś {i}gwiazdą{/i}. Wzniosły filar społeczności."
 
 # game/script_date_cesar.rpy:686
 translate languagetwo cesar_anal_95a76be5:
 
     # mside "My pillar's definitely upstanding!"
-    mside "My pillar's definitely upstanding!"
+    mside "Mój filar zdecydowanie się wzniósł!"
 
 # game/script_date_cesar.rpy:696
 translate languagetwo cesar_anal_458796ba:
 
     # "After a minute of vigorous thrusting, you feel him grow bigger. His hand tightens around your neck."
-    "After a minute of vigorous thrusting, you feel him grow bigger. His hand tightens around your neck."
+    "Po minucie energicznego pchania czujesz, że rośnie. Jego ręka zaciska się wokół twojej szyi."
 
 # game/script_date_cesar.rpy:698
 translate languagetwo cesar_anal_497e36ad:
 
     # cesarside "Oh god, you feel so fucking good around my dick. Holy fuck."
-    cesarside "Oh god, you feel so fucking good around my dick. Holy fuck."
+    cesarside "Oh boże, czujesz się tak cholernie dobrze. O kurwa."
 
 # game/script_date_cesar.rpy:701
 translate languagetwo cesar_anal_39cf4122:
 
     # "The alleyway echoes with the sound of Cesar's animalistic grunts. You feel the veins on his cock pulse as he starts to swell inside you."
-    "The alleyway echoes with the sound of Cesar's animalistic grunts. You feel the veins on his cock pulse as he starts to swell inside you."
+    "Aleja rozbrzmiewa echem zwierzęcych pomruków Cesara. Czujesz pulsowanie żył na jego penisie, gdy jego penis zaczyna nabrzmiewać."
 
 # game/script_date_cesar.rpy:702
 translate languagetwo cesar_anal_a2d31d1e:
 
     # "He drills you with short, rapid thrusts. As you angle your hips towards him, he delivers each pump in a way that makes your toes curl."
-    "He drills you with short, rapid thrusts. As you angle your hips towards him, he delivers each pump in a way that makes your toes curl."
+    "Przeszywa cię krótkimi, szybkimi pchnięciami. Gdy ustawiasz biodra w jego kierunku każdy kolejny jego ruch wprowadza cię w błogi stan."
 
 # game/script_date_cesar.rpy:709
 translate languagetwo cesar_anal_7a8f0f37:
 
     # "With a fierce yell, he plunges forward, pulling your ass against him and invading your hole as deeply as he can. Your muscles grip around him as he launches his load inside you."
-    "With a fierce yell, he plunges forward, pulling your ass against him and invading your hole as deeply as he can. Your muscles grip around him as he launches his load inside you."
+    "Z dzikim wrzaskiem rzuca się do przodu, przyciągając twój tyłek do siebie i atakując twoją dziurę tak głęboko, jak tylko może. Twoje mięśnie zaciskają się wokół niego, gdy spuszcza się w tobie."
 
 # game/script_date_cesar.rpy:710
 translate languagetwo cesar_anal_4e1f5293:
 
     # "He pumps and pumps. It feels like he's cumming forever. As he empties himself into you, his dick spasms with each launch of jizz."
-    "He pumps and pumps. It feels like he's cumming forever. As he empties himself into you, his dick spasms with each launch of jizz."
+    "On pcha i pcha. Czuje się, jakby spuszczał się wieczność. Kiedy wlewa się w ciebie, jego penis drga z każdym wypływem spermy."
 
 # game/script_date_cesar.rpy:713
 translate languagetwo cesar_anal_16d43c8e:
 
     # "Cesar releases you with a sigh."
-    "Cesar releases you with a sigh."
+    "Cesar puszcza cię z westchnieniem."
 
 # game/script_date_cesar.rpy:722
 translate languagetwo cesar_release_postbuttsex_fe888a21:
 
     # "Slowly he begins buttoning up his shirt."
-    "Slowly he begins buttoning up his shirt."
+    "Powoli zaczyna zapinać koszulę."
 
 # game/script_date_cesar.rpy:724
 translate languagetwo cesar_release_postbuttsex_26ad21eb:
 
     # cesarside "I think you're in the clear."
-    cesarside "I think you're in the clear."
+    cesarside "Myślę, że jesteś czysty."
 
 # game/script_date_cesar.rpy:725
 translate languagetwo cesar_release_postbuttsex_22ce6737:
 
     # "He uncuffs you."
-    "He uncuffs you."
+    "Rozkuwa cię."
 
 # game/script_date_cesar.rpy:728
 translate languagetwo cesar_release_postbuttsex_29ad9c54:
 
     # mside "So I'm free to go?"
-    mside "So I'm free to go?"
+    mside "Więc mogę odejść?"
 
 # game/script_date_cesar.rpy:729
 translate languagetwo cesar_release_postbuttsex_8216c0d3:
 
     # cesarside "Yeah. Despite the fact that you definitely {i}are{/i} something of a troublemaker."
-    cesarside "Yeah. Despite the fact that you definitely {i}are{/i} something of a troublemaker."
+    cesarside "Oczywiście. Pomimo tego, że na pewno {i}jesteś{/i} kimś w rodzaju rozbójnika."
 
 # game/script_date_cesar.rpy:731
 translate languagetwo cesar_release_postbuttsex_0bfb099d:
 
     # mside "That I am."
-    mside "That I am."
+    mside "To ja."
 
 # game/script_date_cesar.rpy:733
 translate languagetwo cesar_release_postbuttsex_13ecff87:
 
     # mside "I'm wanted in at least ten states for sodomy."
-    mside "I'm wanted in at least ten states for sodomy."
+    mside "W co najmniej dziesięciu stanach jestem poszukiwany za pederastie."
 
 # game/script_date_cesar.rpy:735
 translate languagetwo cesar_release_postbuttsex_cd974a7c:
 
     # cesarside "I can see why. I'd want you in my state for sodomy too."
-    cesarside "I can see why. I'd want you in my state for sodomy too."
+    cesarside "Widzę dlaczego. Chciałbym żebyś w moim stanie był poszukiwany dokładnie za to samo."
 
 # game/script_date_cesar.rpy:736
 translate languagetwo cesar_release_postbuttsex_913c3f10:
 
     # "Cesar grabs your head, kisses you hot on the lips, thrusting his tongue in your mouth. He kisses you hard for a full minute, and gives your ass a final squeeze. You feel your cock start to harden again."
-    "Cesar grabs your head, kisses you hot on the lips, thrusting his tongue in your mouth. He kisses you hard for a full minute, and gives your ass a final squeeze. You feel your cock start to harden again."
+    "Cesar chwyta cię za głowę, całuje gorąco w usta, wkładając język do ust. Całuje cię mocno przez całą minutę i ściska twój tyłek ostatni raz. Czujesz jak twój kutas znowu staje."
 
 # game/script_date_cesar.rpy:738
 translate languagetwo cesar_release_postbuttsex_ff1540f0:
 
     # cesarside "Stay out of trouble, punk."
-    cesarside "Stay out of trouble, punk."
+    cesarside "Przymaj się zdala od problemów, śmieciu."
 
 # game/script_date_cesar.rpy:740
 translate languagetwo cesar_release_postbuttsex_b1c25d13:
 
     # "You pull up your jeans, bid the officer adieu, and walk back to your car."
-    "You pull up your jeans, bid the officer adieu, and walk back to your car."
+    "Podciągasz dżinsy i wracasz do samochodu."
 
 # game/script_date_cesar.rpy:741
 translate languagetwo cesar_release_postbuttsex_3dd6ca1b:
@@ -1764,31 +1764,31 @@ translate languagetwo cesar_release_postbuttsex_3dd6ca1b:
 translate languagetwo cesar_innocent_eb7b2267:
 
     # cesarside "Oh yeah? How so?"
-    cesarside "Oh yeah? How so?"
+    cesarside "Oh tak? Więc jak?"
 
 # game/script_date_cesar.rpy:748
 translate languagetwo cesar_innocent_8b55f702:
 
     # mside "Do I LOOK like someone who skulks around alleyways buying illegal poppers?"
-    mside "Do I LOOK like someone who skulks around alleyways buying illegal poppers?"
+    mside "Czy WYGLĄDAM jak ktoś, kto kręci się po ciemnych alejkach, kupując nielegalne poppersy?"
 
 # game/script_date_cesar.rpy:750
 translate languagetwo cesar_innocent_9a2ce26c:
 
     # cesarside "Pretty much the walking definition, yeah."
-    cesarside "Pretty much the walking definition, yeah."
+    cesarside "Dokładnie."
 
 # game/script_date_cesar.rpy:752
 translate languagetwo cesar_innocent_4245e1b7:
 
     # mside "Okaaay, let's try again. You can just ask my roommate. He knows I was going out to pick up jalapeno poppers. I have an alibi!"
-    mside "Okaaay, let's try again. You can just ask my roommate. He knows I was going out to pick up jalapeno poppers. I have an alibi!"
+    mside "Okaaay, spróbujmy jeszcze raz. Możesz zapytać mojego współlokatora. On wie, że miałem kupić poppery jalapeno. Mam alibi!"
 
 # game/script_date_cesar.rpy:754
 translate languagetwo cesar_innocent_dc54d795:
 
     # cesarside "All right. Call him."
-    cesarside "All right. Call him."
+    cesarside "Dobrze więc. Zadzwoń do niego."
 
 # game/script_date_cesar.rpy:756
 translate languagetwo cesar_innocent_b10d6164:
@@ -1800,13 +1800,13 @@ translate languagetwo cesar_innocent_b10d6164:
 translate languagetwo cesar_innocent_efe3b82b:
 
     # cesarside "Call him right now, before I change my mind."
-    cesarside "Call him right now, before I change my mind."
+    cesarside "Zadzwoń do niego, zanim zmienię zdanie."
 
 # game/script_date_cesar.rpy:759
 translate languagetwo cesar_innocent_d815b800:
 
     # "Hands shaking in anticipation, you call Ian."
-    "Hands shaking in anticipation, you call Ian."
+    "Ręce trzęsą się w oczekiwaniu, ąz Ian odbierze."
 
 # game/script_date_cesar.rpy:762
 translate languagetwo cesar_innocent_3da57f76:
@@ -1818,25 +1818,25 @@ translate languagetwo cesar_innocent_3da57f76:
 translate languagetwo cesar_innocent_f2e768cb:
 
     # i_off "Heyowattup."
-    i_off "Heyowattup."
+    i_off "Hej co tam."
 
 # game/script_date_cesar.rpy:765
 translate languagetwo cesar_innocent_3c35f566:
 
     # mside "Remember the conversation we had earlier today?"
-    mside "Remember the conversation we had earlier today?"
+    mside "Pamiętasz o czym wcześniej rozmawialiśmy?"
 
 # game/script_date_cesar.rpy:766
 translate languagetwo cesar_innocent_f0123fd4:
 
     # i_off "We had a conversation?"
-    i_off "We had a conversation?"
+    i_off "Rozmawialiśmy dzisiaj?"
 
 # game/script_date_cesar.rpy:769
 translate languagetwo cesar_innocent_84bd0fa5:
 
     # mside "Oh my god Ian, are you high right now?"
-    mside "Oh my god Ian, are you high right now?"
+    mside "O mój boże Ian, czy jesteś teraz na haju?"
 
 # game/script_date_cesar.rpy:770
 translate languagetwo cesar_innocent_f4226705:
@@ -1848,31 +1848,31 @@ translate languagetwo cesar_innocent_f4226705:
 translate languagetwo cesar_innocent_7da20663:
 
     # mside "Don't you remember our conversation about jalapeno poppers?"
-    mside "Don't you remember our conversation about jalapeno poppers?"
+    mside "Nie pamiętasz naszej rozmowy na temat poppersów jalapeno?"
 
 # game/script_date_cesar.rpy:773
 translate languagetwo cesar_innocent_0dafafd7:
 
     # i_off "No. But that sounds like it was amazeballs. Want to have it again?"
-    i_off "No. But that sounds like it was amazeballs. Want to have it again?"
+    i_off "Nie. Ale brzmi trochę jak amazeballs."
 
 # game/script_date_cesar.rpy:774
 translate languagetwo cesar_innocent_12f0d3b1:
 
     # i_off "Say, you ever have poppers with ranch, dude? It's the best—"
-    i_off "Say, you ever have poppers with ranch, dude? It's the best—"
+    i_off "Powiedz, koleś, miałeś kiedyś poppersa z ranchem? To jest najlepsze-"
 
 # game/script_date_cesar.rpy:775
 translate languagetwo cesar_innocent_cc60c9f0:
 
     # "You hang up."
-    "You hang up."
+    "Rozłączasz się."
 
 # game/script_date_cesar.rpy:780
 translate languagetwo cesar_innocent_afce3566:
 
     # cesarside "I swear. People pour ranch indiscriminately over everything these days."
-    cesarside "I swear. People pour ranch indiscriminately over everything these days."
+    cesarside "Przysięgam. W dzisiejszych czasach ludzie bezkrytycznie dodają runch do wszystkiego."
 
 # game/script_date_cesar.rpy:782
 translate languagetwo cesar_innocent_baf14fbe:
@@ -1884,43 +1884,43 @@ translate languagetwo cesar_innocent_baf14fbe:
 translate languagetwo cesar_innocent_9fb7695b:
 
     # cesarside "Are we done here?"
-    cesarside "Are we done here?"
+    cesarside "To już wszystko?"
 
 # game/script_date_cesar.rpy:786
 translate languagetwo cesar_innocent_464f3396:
 
     # mside "So done."
-    mside "So done."
+    mside "Tak."
 
 # game/script_date_cesar.rpy:794
 translate languagetwo cesar_no_sex_4a3e87b8:
 
     # "You're taken to the police station for further questioning."
-    "You're taken to the police station for further questioning."
+    "Zostajesz zabrany na komisariat w celu dalszego przesłuchania."
 
 # game/script_date_cesar.rpy:795
 translate languagetwo cesar_no_sex_7f87b0b8:
 
     # "Having wisely kept your mouth shut during your arrest, it seems there isn't sufficient proof to convict you of anything."
-    "Having wisely kept your mouth shut during your arrest, it seems there isn't sufficient proof to convict you of anything."
+    "Mądrze trzymałeś buzię na kłódkę podczas aresztowania, wydaje się, że nie ma wystarczających dowodów, aby cię o coś skazać."
 
 # game/script_date_cesar.rpy:796
 translate languagetwo cesar_no_sex_8a0d858b:
 
     # "The police captain, annoyed with Cesar's ridiculous sting operation and concerned you might sue for entrapment,"
-    "The police captain, annoyed with Cesar's ridiculous sting operation and concerned you might sue for entrapment,"
+    "Kapitan policji, zirytowany absurdalną interwencją Cesara i zaniepokojony, że możesz wnieść sprawę o zniesławienie,"
 
 # game/script_date_cesar.rpy:797
 translate languagetwo cesar_no_sex_09aca1f1:
 
     # "offers to compensate you on the condition that you agree to sign an agreement promising you won't press charges."
-    "offers to compensate you on the condition that you agree to sign an agreement promising you won't press charges."
+    "oferuje ci rekompensatę pod warunkiem, że zgadzasz się na podpisanie umowy, w której obiecujesz, że nie wniesiesz zarzutów."
 
 # game/script_date_cesar.rpy:799
 translate languagetwo cesar_no_sex_9e642862:
 
     # "{i}You have increased your bank account by $250.{/i}"
-    "{i}You have increased your bank account by $250.{/i}"
+    "{i}Podnosisz saldo swojego konta o $250.{/i}"
 
 # game/script_date_cesar.rpy:800
 translate languagetwo cesar_no_sex_3dd6ca1b:
@@ -1932,19 +1932,18 @@ translate languagetwo cesar_no_sex_3dd6ca1b:
 translate languagetwo cesar_jail_61d175a2:
 
     # "He hauls you into the back seat of his cruiser. On your way to the police station, you sit and stare at the back of his buzz cut, contemplating the absurdity of your situation."
-    "He hauls you into the back seat of his cruiser. On your way to the police station, you sit and stare at the back of his buzz cut, contemplating the absurdity of your situation."
-
+    "Wciąga cię na tylne siedzenie swojego radiowozu. W drodze na komisariat siedzisz i gapisz się na tył jego fotela, zastanawiając się nad absurdalnością swojej sytuacji."
 # game/script_date_cesar.rpy:811
 translate languagetwo cesar_jail_6777099d:
 
     # "After several hours in processing, you're released due to lack of evidence, and also by the fact the police captain is already annoyed by Cesar's ridiculous sting operation."
-    "After several hours in processing, you're released due to lack of evidence, and also by the fact the police captain is already annoyed by Cesar's ridiculous sting operation."
+    "Po kilku godzinach przesłuchać zostajesz zwolniony z powodu braku dowodów, a także dlatego, że kapitan policji jest już zirytowany absurdalną interwencją Cesara."
 
 # game/script_date_cesar.rpy:812
 translate languagetwo cesar_jail_d4dc93af:
 
     # "Luckily, you don't get incarcerated. Unluckily, there went your Saturday."
-    "Luckily, you don't get incarcerated. Unluckily, there went your Saturday."
+    "Na szczęście nie zostaniesz uwięziony. Niestety minęła twoja wolna sobota."
 
 # game/script_date_cesar.rpy:813
 translate languagetwo cesar_jail_3dd6ca1b:
@@ -1956,37 +1955,37 @@ translate languagetwo cesar_jail_3dd6ca1b:
 translate languagetwo cesar_dressing_free_5262058f:
 
     # "Cesar sighs and removes your cuffs."
-    "Cesar sighs and removes your cuffs."
+    "Cesar wzdycha i zdejmuje kajdanki."
 
 # game/script_date_cesar.rpy:820
 translate languagetwo cesar_dressing_free_57932281:
 
     # cesarside "I owe you an apology. Mistakes were made."
-    cesarside "I owe you an apology. Mistakes were made."
+    cesarside "Jestem ci winien przeprosiny. Popełniono błędy."
 
 # game/script_date_cesar.rpy:822
 translate languagetwo cesar_dressing_free_5a2aeea5:
 
     # mside "Damn right they were. Perhaps I should press charges."
-    mside "Damn right they were. Perhaps I should press charges."
+    mside "Cholera. Może powinienem wnieść oskarżenie."
 
 # game/script_date_cesar.rpy:824
 translate languagetwo cesar_dressing_free_d39607a7:
 
     # cesarside "If you feel your rights were violated today, I can't stop you."
-    cesarside "If you feel your rights were violated today, I can't stop you."
+    cesarside "Jeśli czujesz, że twoje prawa zostały naruszone, nie mogę cię powstrzymać."
 
 # game/script_date_cesar.rpy:826
 translate languagetwo cesar_dressing_free_990fe0f7:
 
     # mside "I'll mull it over this weekend once I speak with my legal team. You MAY be hearing from me, officer."
-    mside "I'll mull it over this weekend once I speak with my legal team. You MAY be hearing from me, officer."
+    mside "Przemyślę to w ten weekend, kiedy porozmawiam z moim zespołem prawników. MOŻESZEMY się jeszcze zobaczyć, oficerze."
 
 # game/script_date_cesar.rpy:828
 translate languagetwo cesar_dressing_free_0418dac9:
 
     # "You head to your car, your dignity restored."
-    "You head to your car, your dignity restored."
+    "Idziesz do samochodu, odzyskując godność."
 
 # game/script_date_cesar.rpy:829
 translate languagetwo cesar_dressing_free_3dd6ca1b:
@@ -1998,91 +1997,91 @@ translate languagetwo strings:
 
     # script_date_cesar.rpy:23
     old "No thanks. I have some stuff to do."
-    new "No thanks. I have some stuff to do."
+    new "Nie dzięki. Mam kilka rzeczy do zrobienia."
 
     # script_date_cesar.rpy:53
     old "Will do."
-    new "Will do."
+    new "Zrobi się."
 
     # script_date_cesar.rpy:122
     old "{i}Take some. Just in case.{/i}"
-    new "{i}Take some. Just in case.{/i}"
+    new "{i}Wezmę trochę. W razie czego.{/i}"
 
     # script_date_cesar.rpy:122
     old "{i}No. Just no.{/i}"
-    new "{i}No. Just no.{/i}"
+    new "{i}Nie. Po prostu nie.{/i}"
 
     # script_date_cesar.rpy:173
     old "Continue down the alleyway."
-    new "Continue down the alleyway."
+    new "Idź dalej alejką."
 
     # script_date_cesar.rpy:173
     old "Go home."
-    new "Go home."
+    new "Idź do domu."
 
     # script_date_cesar.rpy:276
     old "Yes, this is my last semester of college. I'm about to graduate."
-    new "Yes, this is my last semester of college. I'm about to graduate."
+    new "Tak, to mój ostatni semestr na studiach. Mam zamiar skończyć szkołę."
 
     # script_date_cesar.rpy:276
     old "I'm keeping my mouth shut until I talk to a lawyer."
-    new "I'm keeping my mouth shut until I talk to a lawyer."
+    new "Trzymam usta zamknięte, dopóki nie porozmawiam z prawnikiem."
 
     # script_date_cesar.rpy:340
     old "It's a bag of ranch dressing mix."
-    new "It's a bag of ranch dressing mix."
+    new "To torebka mieszanki rancha."
 
     # script_date_cesar.rpy:340
     old "It's cocaine. Obviously. Duh."
-    new "To kokaina. Obviously. Duh."
+    new "To kokaina. Oczywiście. Duh."
 
     # script_date_cesar.rpy:371
     old "Well, believe it. Will you let me go now?"
-    new "Well, believe it. Możesz mi dać teraz odejść?"
+    new "Uwierz w to. Możesz mi dać teraz odejść?"
 
     # script_date_cesar.rpy:371
     old "You're such a goddamn rookie, rookie."
-    new "You're such a goddamn rookie, rookie."
+    new "Jesteś takim cholernym rekrutem, rekrucie."
 
     # script_date_cesar.rpy:378
     old "Well then, let me go already."
-    new "Well then, let me go already."
+    new "Cóż, pozwól mi już iść."
 
     # script_date_cesar.rpy:378
     old "Whatever. You don't seem experienced to me, rookie."
-    new "Whatever. You don't seem experienced to me, rookie."
+    new "Bynajmniej. Nie wyglądasz mi na doświadczonego, rekrucie."
 
     # script_date_cesar.rpy:391
     old "No thanks. Let me go, officer."
-    new "No thanks. Let me go, officer."
+    new "Nie dzięki. Daj mi odejść, oficerze."
 
     # script_date_cesar.rpy:391
     old "Oh yeah? Maybe I do...rookie."
-    new "Oh yeah? Maybe I do...rookie."
+    new "Oh tak? Może ja...rekrut."
 
     # script_date_cesar.rpy:410
     old "Aren't you gonna frisk my butt too?"
-    new "Aren't you gonna frisk my butt too?"
+    new "Nie masz zamiaru przeszukać też mojego tyłka?"
 
     # script_date_cesar.rpy:410
     old "Your sting was a completely illegal operation. I'm gonna sue you for entrapment, pig! I will alert the media about this!"
-    new "Your sting was a completely illegal operation. I'm gonna sue you for entrapment, pig! I will alert the media about this!"
+    new "Twoje zatrzymanie było łamaniem prawa. Pozwę cię, świnio! Powiadomię o tym media!"
 
     # script_date_cesar.rpy:410
     old "Okay! I can prove to you I'm innocent!"
-    new "Okay! I can prove to you I'm innocent!"
+    new "Okay! Mogę ci udowodnić, że jestem niewinny!"
 
     # script_date_cesar.rpy:415
     old "Because you can totally frisk it. You know, whatever you gotta do...for your job."
-    new "Because you can totally frisk it. You know, whatever you gotta do...for your job."
+    new "Możesz mnie przeszukać. Wiesz, cokolwiek musisz zrobić... dla swojej pracy."
 
     # script_date_cesar.rpy:415
     old "I just want to know what's proper police procedure."
-    new "I just want to know what's proper police procedure."
+    new "Chcę tylko wiedzieć, jaka jest właściwa procedura policyjna."
 
     # script_date_cesar.rpy:463
     old "Well judging by that bulge in your pants, seems like you'd be more than happy to volunteer."
-    new "Well judging by that bulge in your pants, seems like you'd be more than happy to volunteer."
+    new "Sądząc po wybrzuszeniu w spodniach, wydaje się, że byłbyś bardziej niż szczęśliwy, gdybyś został wolontariuszem."
 
     # script_date_cesar.rpy:463
     old "Sorry officer. I'll behave now."
@@ -2094,7 +2093,7 @@ translate languagetwo strings:
 
     # script_date_cesar.rpy:579
     old "{i}Nod, enthusiastically.{/i}"
-    new "{i}Nod, enthusiastically.{/i}"
+    new "{i}Kiwaj głową z entuzjazmem.{/i}"
 
     # script_date_cesar.rpy:579
     old "{i}Frantically shake your head no.{/i}"
