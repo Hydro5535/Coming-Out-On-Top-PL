@@ -966,7 +966,7 @@ translate languagetwo cesar_finds_ranch_b64867c0:
 translate languagetwo cesar_finds_ranch_5d4bafe7:
 
     # cesarside "I've been on the force for six years. I'm not a fucking rookie."
-    cesarside "Jestem w służbie od sześciu lat. Nie jestem jebanym rekrutem."
+    cesarside "Jestem w służbie od sześciu lat. Nie jestem jebanym nowicjuszem."
 
 # game/script_date_cesar.rpy:383
 translate languagetwo cesar_finds_ranch_9fae3663:
